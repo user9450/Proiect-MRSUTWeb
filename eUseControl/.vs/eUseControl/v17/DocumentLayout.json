@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\iaroslav\\source\\repos\\eusecontrol\\eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\fontawesome-stars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\fontawesome-stars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\venobox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\venobox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAnwNIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-08T11:16:49.715Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "animate.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\animate.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\animate.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\animate.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\animate.css",
+              "ViewState": "AQIAADsBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T19:02:34.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "magnific-popup.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\magnific-popup.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\magnific-popup.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\magnific-popup.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\magnific-popup.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T19:00:36.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fontawesome-stars.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\fontawesome-stars.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\fontawesome-stars.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\fontawesome-stars.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\fontawesome-stars.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T18:57:45.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\responsive.css",
+              "ViewState": "AQIAAGkCAAAAAAAAAAAAAKICAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T19:00:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "slick.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\slick.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\slick.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\slick.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\slick.css",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAAYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T19:00:23.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "venobox.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\venobox.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\venobox.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\venobox.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\venobox.css",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAADAAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-08T19:00:19.382Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
