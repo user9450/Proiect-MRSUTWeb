@@ -1,34 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\",
+  "WorkspaceRootPath": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\swrll\\source\\repos\\proiect-mrsut\\eusecontrol\\eusecontrol.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\iaroslav\\source\\repos\\eusecontrol\\eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\swrll\\source\\repos\\proiect-mrsut\\eusecontrol\\eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\fontawesome-stars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\fontawesome-stars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\swrll\\source\\repos\\proiect-mrsut\\eusecontrol\\eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\magnific-popup.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\swrll\\source\\repos\\proiect-mrsut\\eusecontrol\\eusecontrol.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\animate.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\venobox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\venobox.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eusecontrol.web\\content\\css\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\slick.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\swrll\\source\\repos\\proiect-mrsut\\eusecontrol\\eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAM8AAAAAAAAAAAAnwNIAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEJAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-03-08T11:16:49.715Z",
               "IsPinned": true,
@@ -56,76 +48,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "animate.css",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\animate.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\animate.css",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\animate.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\animate.css",
-              "ViewState": "AQIAADsBAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-08T19:02:34.103Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "magnific-popup.css",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\magnific-popup.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\magnific-popup.css",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\magnific-popup.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\magnific-popup.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-08T19:00:36.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "fontawesome-stars.css",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\fontawesome-stars.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\fontawesome-stars.css",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\fontawesome-stars.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\fontawesome-stars.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-08T18:57:45.315Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "responsive.css",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\responsive.css",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\responsive.css",
-              "ViewState": "AQIAAGkCAAAAAAAAAAAAAKICAAAPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-08T19:00:28.268Z",
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T17:32:55.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "slick.css",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\slick.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\slick.css",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\slick.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\slick.css",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAAAYAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-08T19:00:23.303Z"
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T17:50:08.628Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "venobox.css",
-              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\venobox.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\venobox.css",
-              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\eUseControl\\eUseControl.Web\\Content\\css\\venobox.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\venobox.css",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAADAAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-08T19:00:19.382Z"
+              "DocumentIndex": 2,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:26:33.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Global.asax.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\swrll\\source\\repos\\Proiect-MRSUT\\eUseControl\\eUseControl.Web\\Global.asax.cs",
+              "RelativeToolTip": "eUseControl.Web\\Global.asax.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T16:25:56.599Z",
+              "EditorCaption": ""
             }
           ]
         }
