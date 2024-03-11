@@ -193,3 +193,7 @@ C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\
 C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseCont.507825D9.Up2Date
 C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
 C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
+C:\Users\Bloody_Roots\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.AssemblyReference.cache
+C:\Users\Bloody_Roots\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.csproj.CoreCompileInputs.cache
+C:\Users\Bloody_Roots\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.dll
+C:\Users\Bloody_Roots\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\obj\Debug\eUseControl.Web.pdb
