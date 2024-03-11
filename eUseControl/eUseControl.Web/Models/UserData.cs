@@ -5,11 +5,10 @@ using System.Web;
 
 namespace eUseControl.Web.Models
 {
-    public class UserData
+    public class UserLogin
     {
-        /*
-        public string Username { get; set; }
-        public List<string> Products { get; set; }
-        */
+        public string Credentials { get; set; }
+        public string Password { get; set; }   
+        public bool Status { get; set; }
     }
 }

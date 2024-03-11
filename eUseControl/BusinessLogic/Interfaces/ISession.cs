@@ -9,6 +9,6 @@ namespace BusinessLogic.Interfaces
 {
      public interface ISession
      {
-          bool UserLogin(ULoginData data);
+          bool UserLogin(ULoginData uLoginData);
      }
 }

@@ -7,9 +7,10 @@ using System.Web;
 using System.Web.Mvc;
 using System.Web.SessionState;
 using BusinessLogic;
-using BusinessLogic.Interfaces; // Import the BusinessLogic namespace
-
+using BusinessLogic.Interfaces;
+using eUseControl.Web.Models;
 namespace eUseControl.Web.Controllers
+
 {
      public class LoginController : Controller
      {
@@ -17,44 +18,47 @@ namespace eUseControl.Web.Controllers
 
           public LoginController()
           {
-               var bl = new BusinessLogic.BusinessLogic(); // Instantiate the BusinessLogic class
+               var bl = new BusinessLogic.BusinessLogic();
                _session = bl.GetSessionBL();
           }
 
-          // GET: Login
+          // Aquire login
           public ActionResult Index()
           {
-               return View();
+                //return View();
+               return null();
           }
 
           [HttpPost]
           [ValidateAntiForgeryToken]
-          public ActionResult Index(ULoginData login)
+          public ActionResult Index(UserLogin login)
           {
                if (ModelState.IsValid)
                {
-                    var data = new ULoginData
+                    ULoginData data = new ULoginData
                     {
-                         Credential = login.Credential,
+                         Credential = login.Credentials,
                          Password = login.Password,
                          LoginIP = Request.UserHostAddress,
                          LoginDateTime = DateTime.Now
                     };
 
                     var userLogin = _session.UserLogin(data);
-                    if (userLogin.Status)
+                    if (userLogin)
                     {
-                         //ADD COOOOOOKIES
-                         // You can add cookies here using the Response.Cookies collection
-
+                      
                          return RedirectToAction("Index", "Home");
                     }
                     else
                     {
-                         ModelState.AddModelError("", userLogin.StatusMsg);
+                        //ModelState.AddModelError("", userLogin); wip
+                        return null;
                     }
                }
-               return View(login);
+
+            //return View();
+            return null;
+
           }
      }
 }

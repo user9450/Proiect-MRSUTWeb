@@ -11,9 +11,11 @@ namespace BusinessLogic
 {
      public class SessionBL : UseraApi, ISession
      {
-          public bool UserLogin(ULoginData data)
+          public bool UserLogin(ULoginData uLoginData)
           {
-               throw new NotImplementedException();
+            //shenanigans in sql
+
+            return true;
           }
      }
 }
