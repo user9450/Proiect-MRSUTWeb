@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\eUseControl",
+    "\\eUseControl\\BusinessLogic",
+    "\\eUseControl\\eUseControl.Web",
+    "\\eUseControl\\eUseControl.Web\\Controllers"
   ],
-  "SelectedNode": "\\eUseControl.sln",
+  "SelectedNode": "\\eUseControl\\eUseControl.Web\\eUseControl.Web.csproj",
   "PreviewInSolutionExplorer": false
 }

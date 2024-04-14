@@ -25,8 +25,8 @@ namespace eUseControl.Web.Controllers
           // Aquire login
           public ActionResult Index()
           {
-                //return View();
-               return null();
+               return View();
+               //return null();
           }
 
           [HttpPost]
