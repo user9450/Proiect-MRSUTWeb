@@ -40,9 +40,10 @@ namespace eUseControl.Domain.Entities.User
      class UserContext : DbContext
     {
         public UserContext() :
-            base("name=eUseControl")
+            base("name=eUseControl") //connectionstring name define in
         { 
         }
+
         public virtual DbSet<UDbTable> Users { get; set; }
 
 

@@ -4,11 +4,16 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using eUseControl.Domain.Entities.User;
 
 namespace BusinessLogic.Interfaces
 {
      public interface ISession
      {
-          bool UserLogin(ULoginData uLoginData);
+          ULoginResp UserLogin(ULoginData data);
+
+          HttpCookie GenCookie(string loginCredential);
+
+          UserMinimal GetUserByCookie(string apiCookieValue);
      }
 }

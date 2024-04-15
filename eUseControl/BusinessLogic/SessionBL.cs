@@ -11,11 +11,19 @@ namespace BusinessLogic
 {
      public class SessionBL : UseraApi, ISession
      {
-          public bool UserLogin(ULoginData uLoginData)
+          public ULoginResp UserLogin(ULoginData uLoginData)
           {
-            //shenanigans in sql
+               return UserLoginAction(uLoginData);
+          }
 
-            return true;
+          public HtttpCookie GenCookie(string loginCredential)
+          {
+               return Cookie(loginCredential);
+          }
+
+          public UserMinimal GetUserByCookie(string apiCookieValue)
+          {
+               return UserCookie(apiCookieValue);
           }
      }
 }
