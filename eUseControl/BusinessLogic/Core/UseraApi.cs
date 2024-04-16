@@ -1,5 +1,5 @@
 ﻿using BusinessLogic.Interfaces;
-using eUseControl.Domain.Entities.User;
+using Domain.Entities.User;
 using System;
 using System.Collections.Generic;
 using System.Linq;
