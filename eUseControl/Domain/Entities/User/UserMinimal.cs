@@ -1,11 +1,7 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using Domain.Enums;
+using eUseControl.Domain.Enums;
 
-namespace Domain.Entities.User
+namespace eUseControl.Domain.Entities.User
 {
      public class UserMinimal
      {

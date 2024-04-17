@@ -46,7 +46,10 @@
     <Reference Include="System" />
     <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Core" />
+    <Reference Include="System.Data.Entity" />
     <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Threading.Tasks.Extensions, Version=4.2.0.1, Culture=neutral, PublicKeyToken=cc7b13ffcd2ddd51, processorArchitecture=MSIL" />
+    <Reference Include="System.Web" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="System.Data.DataSetExtensions" />
     <Reference Include="Microsoft.CSharp" />
@@ -55,7 +58,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="BusinessLogic.cs" />
+    <Compile Include="BussinesLogic.cs" />
     <Compile Include="Core\AdminApi.cs" />
     <Compile Include="Core\UseraApi.cs" />
     <Compile Include="DBModel\SessionContext.cs" />
@@ -65,13 +68,13 @@
     <Compile Include="SessionBL.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\Domain\Domain.csproj">
+    <ProjectReference Include="..\Domain\eUseControl.Domain.csproj">
       <Project>{c809ffb7-eae1-41d0-8a08-1e253c557828}</Project>
-      <Name>Domain</Name>
+      <Name>eUseControl.Domain</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Helpers\Helpers.csproj">
+    <ProjectReference Include="..\Helpers\eUseControl.Helpers.csproj">
       <Project>{075f9f75-607e-497e-a89a-b7e6cd7b830e}</Project>
-      <Name>Helpers</Name>
+      <Name>eUseControl.Helpers</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

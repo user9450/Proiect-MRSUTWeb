@@ -1,12 +1,14 @@
-﻿using BusinessLogic.Interfaces;
-using Domain.Entities.User;
-using System;
-using System.Collections.Generic;
+﻿using System;
+using System.ComponentModel.DataAnnotations;
+using System.Data.Entity;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Web;
+using AutoMapper;
+using eUseControl.BusinessLogic.DBModel;
+using eUseControl.Domain.Entities.User;
+using eUseControl.Helpers;
 
-namespace BusinessLogic.Core
+namespace eUseControl.BusinessLogic.Core
 {
      public class UseraApi 
      {
@@ -29,7 +31,7 @@ namespace BusinessLogic.Core
 
                     using (var todo = new UserContext())
                     {
-                         result.LasIp = data.LoginIp;
+                         result.LastIp = data.LoginIp;
                          result.LastLogin = data.LoginDateTime;
                          todo.Entry(result).State = EntityState.Modified;
                          todo.SaveChanges();
@@ -52,7 +54,7 @@ namespace BusinessLogic.Core
 
                     using (var todo = new UserContext())
                     {
-                         result.LasIp = data.LoginIp;
+                         result.LastIp = data.LoginIp;
                          result.LastLogin = data.LoginDateTime;
                          todo.Entry(result).State = EntityState.Modified;
                          todo.SaveChanges();

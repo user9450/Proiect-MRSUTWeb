@@ -1,64 +1,59 @@
-﻿using Domain.Entities.User;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
+﻿using System;
 using System.Web;
 using System.Web.Mvc;
-using System.Web.SessionState;
-using BusinessLogic;
-using BusinessLogic.Interfaces;
+using AutoMapper;
+using eUseControl.BusinessLogic;
+using eUseControl.BusinessLogic.Interfaces;
+using eUseControl.Domain.Entities.User;
 using eUseControl.Web.Models;
+
+
 namespace eUseControl.Web.Controllers
 
 {
-     public class LoginController : Controller
-     {
-          private readonly ISession _session;
+    public class LoginController : Controller
+    {
+        private readonly ISession _session;
+        public LoginController()
+        {
+            var bl = new BussinesLogic();
+            _session = bl.GetSessionBL();
+        }
 
-          public LoginController()
-          {
-               var bl = new BusinessLogic.BusinessLogic();
-               _session = bl.GetSessionBL();
-          }
+        // GET: Login
+        public ActionResult Index()
+        {
+            return View();
+        }
 
-          // Aquire login
-          public ActionResult Index()
-          {
-               return View();
-               //return null();
-          }
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Index(UserLogin login)
+        {
+            if (ModelState.IsValid)
+            {
+                Mapper.Initialize(cfg => cfg.CreateMap<UserLogin, ULoginData>());
+                var data = Mapper.Map<ULoginData>(login);
 
-          [HttpPost]
-          [ValidateAntiForgeryToken]
-          public ActionResult Index(UserLogin login)
-          {
-               if (ModelState.IsValid)
-               {
-                    ULoginData data = new ULoginData
-                    {
-                         Credential = login.Credentials,
-                         Password = login.Password,
-                         LoginIP = Request.UserHostAddress,
-                         LoginDateTime = DateTime.Now
-                    };
+                data.LoginIp = Request.UserHostAddress;
+                data.LoginDateTime = DateTime.Now;
 
-                    var userLogin = _session.UserLogin(data);
-                    if (userLogin)
-                    {
-                      
-                         return RedirectToAction("Index", "Home");
-                    }
-                    else
-                    {
-                        //ModelState.AddModelError("", userLogin); wip
-                        return null;
-                    }
-               }
+                var userLogin = _session.UserLogin(data);
+                if (userLogin.Status)
+                {
+                    HttpCookie cookie = _session.GenCookie(login.Credential);
+                    ControllerContext.HttpContext.Response.Cookies.Add(cookie);
 
-            //return View();
-            return null;
+                    return RedirectToAction("Index", "Home");
+                }
+                else
+                {
+                    ModelState.AddModelError("", userLogin.StatusMsg);
+                    return View();
+                }
+            }
 
-          }
-     }
+            return View();
+        }
+    }
 }

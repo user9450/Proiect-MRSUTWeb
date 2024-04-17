@@ -5,7 +5,7 @@ using System.Web;
 
 namespace eUseControl.Web.Models
 {
-    public class UserLogin
+    public class UserData
     {
         public string Credentials { get; set; }
         public string Password { get; set; }   

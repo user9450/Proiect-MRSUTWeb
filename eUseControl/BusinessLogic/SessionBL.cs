@@ -1,13 +1,9 @@
-﻿using BusinessLogic.Core;
-using BusinessLogic.Interfaces;
-using Domain.Entities.User;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Web;
+using eUseControl.BusinessLogic.Core;
+using eUseControl.BusinessLogic.Interfaces;
+using eUseControl.Domain.Entities.User;
 
-namespace BusinessLogic
+namespace eUseControl.BusinessLogic
 {
      public class SessionBL : UseraApi, ISession
      {
@@ -16,7 +12,7 @@ namespace BusinessLogic
                return UserLoginAction(uLoginData);
           }
 
-          public HtttpCookie GenCookie(string loginCredential)
+          public HttpCookie GenCookie(string loginCredential)
           {
                return Cookie(loginCredential);
           }

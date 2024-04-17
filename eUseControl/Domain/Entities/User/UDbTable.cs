@@ -1,9 +1,9 @@
 ﻿using System;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
-using Domain.Enums;
+using eUseControl.Domain.Enums;
 
-namespace Domain.Entities.User
+namespace eUseControl.Domain.Entities.User
 {
      public class UDbTable
      {
@@ -30,7 +30,7 @@ namespace Domain.Entities.User
           public DateTime LastLogin { get; set; }
 
           [StringLength(30)]
-          public string LasIp { get; set; }
+          public string LastIp { get; set; }
 
           public URole Level { get; set; }
      }

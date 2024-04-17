@@ -352,10 +352,12 @@
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Extension\HttpContextExtensions.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\UserData.cs" />
+    <Compile Include="Models\UserLogin.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -401,16 +403,15 @@
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Views\Base\" />
-    <Folder Include="Views\Login\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\BusinessLogic\BusinessLogic.csproj">
+    <ProjectReference Include="..\BusinessLogic\eUseControl.BusinessLogic.csproj">
       <Project>{97df8c8d-346c-4728-9d90-663a027a40c2}</Project>
-      <Name>BusinessLogic</Name>
+      <Name>eUseControl.BusinessLogic</Name>
     </ProjectReference>
-    <ProjectReference Include="..\Domain\Domain.csproj">
+    <ProjectReference Include="..\Domain\eUseControl.Domain.csproj">
       <Project>{c809ffb7-eae1-41d0-8a08-1e253c557828}</Project>
-      <Name>Domain</Name>
+      <Name>eUseControl.Domain</Name>
     </ProjectReference>
   </ItemGroup>
   <PropertyGroup>

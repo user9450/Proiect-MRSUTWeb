@@ -1,13 +1,7 @@
-﻿using System;
-using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema;
-using System.Data.Entity;
-using eUseControl.Domain;
-using Domain.Enums;
-using Domain.Entities.User;
-using System.Data.Entity;
+﻿using System.Data.Entity;
+using eUseControl.Domain.Entities.User;
 
-namespace BusinessLogic.DBModel
+namespace eUseControl.BusinessLogic.DBModel
 {
      class UserContext : DbContext
     {
