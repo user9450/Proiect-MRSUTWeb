@@ -1,46 +1,41 @@
-﻿<!doctype html>
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Home";
+}
+
+@using System.Web.Optimization
+@model eUseControl.Web.Models.UserData
+
+<!doctype html>
 <html class="no-js" lang="zxx">
 
 <head>
+
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <title>Proiect TWeb</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <!-- Favicon -->
+
     <link rel="shortcut icon" type="image/x-icon" href="~/Content/images/favicon.png">
-    <!-- Material Design Iconic Font-V2.2.0 -->
     <link rel="stylesheet" href="~/Content/css/material-design-iconic-font.min.css">
-    <!-- Font Awesome -->
     <link rel="stylesheet" href="~/Content/css/font-awesome.min.css">
-    <!-- Font Awesome Stars-->
     <link rel="stylesheet" href="~/Content/css/fontawesome-stars.css">
-    <!-- Meanmenu CSS -->
     <link rel="stylesheet" href="~/Content/css/meanmenu.css">
-    <!-- owl carousel CSS -->
     <link rel="stylesheet" href="~/Content/css/owl.carousel.min.css">
-    <!-- Slick Carousel CSS -->
     <link rel="stylesheet" href="~/Content/css/slick.css">
-    <!-- Animate CSS -->
     <link rel="stylesheet" href="~/Content/css/animate.css">
-    <!-- Jquery-ui CSS -->
     <link rel="stylesheet" href="~/Content/css/jquery-ui.min.css">
-    <!-- Venobox CSS -->
     <link rel="stylesheet" href="~/Content/css/venobox.css">
-    <!-- Nice Select CSS -->
     <link rel="stylesheet" href="~/Content/css/nice-select.css">
-    <!-- Magnific Popup CSS -->
     <link rel="stylesheet" href="~/Content/css/magnific-popup.css">
-    <!-- Bootstrap V4.1.3 Fremwork CSS -->
     <link rel="stylesheet" href="~/Content/css/bootstrap.min.css">
-    <!-- Helper CSS -->
     <link rel="stylesheet" href="~/Content/css/helper.css">
-    <!-- Main Style CSS -->
     <link rel="stylesheet" href="~/Content/style.css">
-    <!-- Responsive CSS -->
     <link rel="stylesheet" href="~/Content/css/responsive.css">
-    <!-- Modernizr js -->
+
     <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+
 </head>
 <body>
     <!-- Begin Body Wrapper -->
@@ -55,7 +50,7 @@
                         <div class="col-lg-3 col-md-4">
                             <div class="header-top-left">
                                 <ul class="phone-wrap">
-                                    <li><span>Contact number: (+8) 800 555 35 35</span></li>
+                                    <li><span>Nr. de contact: (+373) 00 00 00 00</span></li>
                                 </ul>
                             </div>
                         </div>
@@ -66,11 +61,11 @@
                                 <ul class="ht-menu">
                                     <!-- Begin Setting Area -->
                                     <li>
-                                        <div class="ht-setting-trigger"><span>Settings</span></div>
+                                        <div class="ht-setting-trigger"><span>Setări</span></div>
                                         <div class="setting ht-setting">
                                             <ul class="ht-setting-list">
-                                                <li><a href="">My Account</a></li>
-                                                <li><a href="">Checkout</a></li>
+                                                <li><a href="LoginPage">Logare/Registrare</a></li>
+                                                <li><a href="">Contul meu</a></li>
                                             </ul>
                                         </div>
                                     </li>
@@ -90,9 +85,7 @@
                         <!-- Begin Header Logo Area -->
                         <div class="col-lg-3">
                             <div class="logo pb-sm-30 pb-xs-30">
-                                <a href="">
                                     <img src="~/Content/images/menu/logo/2.jpg" alt="">
-                                </a>
                             </div>
                         </div>
                         <!-- Header Logo Area End Here -->
@@ -102,34 +95,26 @@
                             <form action="#" class="hm-searchbox">
                                 <select class="nice-select select-search-category">
                                     <option value="0">All</option>
-                                    <option value="1"> Playstation Games</option>
-                                    <option value="2"> Xbox Games</option>
-                                    <option value="3"> Steam keys</option>
-                                    <option value="4"> Consoles</option>
-                                    <option value="5"> Collector's Edition</option>
-                                    <option value="6"> Retro Games</option>
+                                    <option value="1">Jocuri Playstation</option>
+                                    <option value="2">Jocuri Xbox</option>
+                                    <option value="3">Jocuri PC</option>
+                                    <option value="4">Consoale</option>
+                                    <option value="5">Accesorii</option>
+                                    <option value="6">Colecții</option>
                                 </select>
-                                <input type="text" placeholder="Enter your search key ...">
+                                <input type="text" placeholder="Scrie aici ...">
                                 <button class="li-btn" type="submit"><i class="fa fa-search"></i></button>
                             </form>
                             <!-- Header Middle Searchbox Area End Here -->
                             <!-- Begin Header Middle Right Area -->
                             <div class="header-middle-right">
                                 <ul class="hm-menu">
-                                    <!-- Begin Header Middle Wishlist Area -->
-                                    <li class="hm-wishlist">
-                                        <a href="">
-                                            <span class="cart-item-count wishlist-item-count">0</span>
-                                            <i class="fa fa-heart-o"></i>
-                                        </a>
-                                    </li>
-                                    <!-- Header Middle Wishlist Area End Here -->
                                     <!-- Begin Header Mini Cart Area -->
                                     <li class="hm-minicart">
                                         <div class="hm-minicart-trigger">
                                             <span class="item-icon"></span>
                                             <span class="item-text">
-                                                $0.00
+                                                MDL 0.00
                                                 <span class="cart-item-count">0</span>
                                             </span>
                                         </div>
@@ -137,13 +122,10 @@
                                         <div class="minicart">
                                             <ul class="minicart-product-list">
                                             </ul>
-                                            <p class="minicart-total">SUBTOTAL: <span>$0.00</span></p>
+                                            <p class="minicart-total">SUBTOTAL: <span>MDL 0.00</span></p>
                                             <div class="minicart-button">
                                                 <a href="" class="li-button li-button-dark li-button-fullwidth li-button-sm">
                                                     <span>View Full Cart</span>
-                                                </a>
-                                                <a href="" class="li-button li-button-fullwidth li-button-sm">
-                                                    <span>Checkout</span>
                                                 </a>
                                             </div>
                                         </div>
@@ -174,26 +156,25 @@
                                             <a href="">Shop</a>
                                             <ul class="megamenu hb-megamenu">
                                                 <li>
-                                                    <a href="">Games</a>
+                                                    <a href="">Jocuri</a>
                                                     <ul>
-                                                        <li><a href="">Playstation Games</a></li>
-                                                        <li><a href="">Xbox games</a></li>
-                                                        <li><a href="">Nintendo Games</a></li>
-                                                        <li><a href="">Computer games</a></li>
-                                                        <li><a href="">Steam keys</a></li>
+                                                        <li><a href="">Playstation</a></li>
+                                                        <li><a href="">Xbox</a></li>
+                                                        <li><a href="">Nintendo</a></li>
+                                                        <li><a href="">PC</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a href="">Consoles</a>
+                                                    <a href="">Consoale</a>
                                                     <ul>
-                                                        <li><a href="">Playstation consoles</a></li>
-                                                        <li><a href="">Xbox Consoles</a></li>
-                                                        <li><a href="">Nintendo Consoles</a></li>
+                                                        <li><a href="">Playstation</a></li>
+                                                        <li><a href="">Xbox</a></li>
+                                                        <li><a href="">Nintendo</a></li>
                                                         <li><a href="">Steam Deck</a></li>
                                                     </ul>
                                                 </li>
                                                 <li>
-                                                    <a href="">Collector's edition</a>
+                                                    <a href="">Accesorii</a>
                                                     <ul>
                                                         <li><a href="">Playstation</a></li>
                                                         <li><a href="">Xbox</a></li>
@@ -204,7 +185,7 @@
                                             </ul>
                                         </li>
                                         <li><a href="">About Us</a></li>
-                                        <li><a href="">Contact</a></li>
+
                                     </ul>
                                 </nav>
                             </div>
