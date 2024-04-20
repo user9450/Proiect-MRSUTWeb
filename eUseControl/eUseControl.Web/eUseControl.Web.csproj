@@ -392,9 +392,12 @@
     <Content Include="Scripts\bootstrap.esm.js.map" />
     <Content Include="Scripts\bootstrap.bundle.min.js.map" />
     <Content Include="Scripts\bootstrap.bundle.js.map" />
-    <Content Include="Views\Shared\_Layout.cshtml" />
-    <Content Include="Views\Home\LoginPage.cshtml" />
-    <Content Include="Views\Shared\_Header.cshtml" />
+    <Content Include="Views\Shared\_LayoutWithoutUser.cshtml" />
+    <Content Include="Views\Login\LogIn.cshtml" />
+    <Content Include="Views\Shared\_HeaderWithoutUser.cshtml" />
+    <Content Include="Views\Shared\_HeaderWithUser.cshtml" />
+    <Content Include="Views\Shared\_LayoutWithUser.cshtml" />
+    <Content Include="Views\Shared\_Footer.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

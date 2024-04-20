@@ -7,7 +7,7 @@ namespace eUseControl.Web.Models
 {
     public class UserData
     {
-        public string Credentials { get; set; }
+        public string Username { get; set; }
         public string Password { get; set; }   
         public bool Status { get; set; }
     }

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using System.Web.Optimization;
 using System.Web.Routing;
 
 namespace eUseControl.Web
@@ -18,6 +19,8 @@ namespace eUseControl.Web
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
             );
+
+            BundleConfig.RegisterBundles(BundleTable.Bundles);
         }
     }
 }

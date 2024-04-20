@@ -21,7 +21,7 @@ namespace eUseControl.Web.Controllers
         }
 
         // GET: Login
-        public ActionResult Index()
+        public ActionResult LogIn()
         {
             return View();
         }

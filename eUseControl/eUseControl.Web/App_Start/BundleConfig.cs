@@ -40,12 +40,10 @@ namespace eUseControl.Web
             bundles.Add(new ScriptBundle("~/bundles/jquery-1.12.4/js").Include("~/Сontent/js/vendor/jquery-1.12.4.min.js"));
             bundles.Add(new ScriptBundle("~/bundles/modernizr-2.8.3/js").Include("~/Сontent/js/vendor/modernizr-2.8.3.min.js"));
 
-
             //From Scripts
             bundles.Add(new ScriptBundle("~/bundles/jquery-validate/js").Include("~/Scripts/jquery.validate.js"));
             bundles.Add(new ScriptBundle("~/bundles/jquery-3.7.1/js").Include("~/Scripts/jquery-3.7.1.js"));
             bundles.Add(new ScriptBundle("~/bundles/jquery-3.7.1-min/js").Include("~/Scripts/jquery-3.7.1.min.js"));
-
 
             //StyleBundle: ~/Content/css/...
             bundles.Add(new StyleBundle("~/bundles/styles/material-design-iconic-font/css").Include("~/Content/css/material-design-iconic-font.min.css", new CssRewriteUrlTransform()));
