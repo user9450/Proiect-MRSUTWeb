@@ -4,73 +4,82 @@
     Layout = "~/Views/Shared/_LayoutWithUser.cshtml";
 }
 
+@using System.Web.Optimization
+@model eUseControl.Web.Models.UserLogin
+
 <!-- Begin Login Content Area -->
 <div class="page-section mb-60">
     <div class="container">
         <div class="row">
             <div class="col-sm-12 col-md-12 col-xs-12 col-lg-6 mb-30">
-                <!-- Login Form s-->
+                <!-- Login Form -->
                 <form action="#">
-                    <div class="login-form">
-                        <h4 class="login-title">Login</h4>
-                        <div class="row">
-                            <div class="col-md-12 col-12 mb-20">
-                                <label>Email Address*</label>
-                                <input class="mb-0" type="email" placeholder="Email Address">
+                    @Html.ValidationSummary(true)
+                    @using (Html.BeginForm("Index", "Login", FormMethod.Post, new { @id = "LoginForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="login-form">
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.Credential, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Credential, new
+                                {
+                                    placeholder = "example@gmail.com",
+                                    title = "Please enter you email",
+                                    @class = "form-control"
+                                })
+                                <span class="help-block small">Your credentials (email)</span>
                             </div>
-                            <div class="col-12 mb-20">
-                                <label>Password</label>
-                                <input class="mb-0" type="password" placeholder="Password">
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.Password, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Password, new
+                                {
+                                    @class = "form-control",
+                                    type = "password",
+                                    title = "Please enter your password",
+                                    placeholder = "******"
+                                })
+                                <span class="help-block small">Your strong password</span>
                             </div>
-                            <div class="col-md-8">
-                                <div class="check-box d-inline-block ml-0 ml-md-2 mt-10">
-                                    <input type="checkbox" id="remember_me">
-                                    <label for="remember_me">Remember me</label>
-                                </div>
-                            </div>
-                            <div class="col-md-4 mt-10 mb-20 text-left text-md-right">
-                                <a href="#"> Forgotten pasward?</a>
-                            </div>
-                            <div class="col-md-12">
-                                <button class="register-button mt-0">Login</button>
+                            <div class="form-group">
+                                <a href="@Url.Action("Index", "LogIn")" class="register-button mt-0">Login</a>
                             </div>
                         </div>
-                    </div>
-                </form>
-            </div>
-            <div class="col-sm-12 col-md-12 col-lg-6 col-xs-12">
-                <form action="#">
-                    <div class="login-form">
-                        <h4 class="login-title">Register</h4>
-                        <div class="row">
-                            <div class="col-md-6 col-12 mb-20">
-                                <label>First Name</label>
-                                <input class="mb-0" type="text" placeholder="First Name">
-                            </div>
-                            <div class="col-md-6 col-12 mb-20">
-                                <label>Last Name</label>
-                                <input class="mb-0" type="text" placeholder="Last Name">
-                            </div>
-                            <div class="col-md-12 mb-20">
-                                <label>Email Address*</label>
-                                <input class="mb-0" type="email" placeholder="Email Address">
-                            </div>
-                            <div class="col-md-6 mb-20">
-                                <label>Password</label>
-                                <input class="mb-0" type="password" placeholder="Password">
-                            </div>
-                            <div class="col-md-6 mb-20">
-                                <label>Confirm Password</label>
-                                <input class="mb-0" type="password" placeholder="Confirm Password">
-                            </div>
-                            <div class="col-12">
-                                <button class="register-button mt-0">Register</button>
-                            </div>
-                        </div>
-                    </div>
+                    }
                 </form>
             </div>
         </div>
     </div>
 </div>
+
 <!-- Login Content Area End Here -->
+
+@section Scripts {
+    @Scripts.Render("~/bundles/validation/js")
+
+    <script type="text/javascript">
+        $(function () {
+
+            $("#LoginForm").validate({
+                rules: {
+                    Username: {
+                        required: true
+                    },
+                    Password: {
+                        required: true
+                    }
+                },
+                submitHandler: function (form) {
+                    form.submit();
+                },
+                errorPlacement: function (error, element) {
+                    $(element)
+                        .closest("form")
+                        .find("label[for='" + element.attr("id") + "']")
+                        .append(error);
+                },
+                errorElement: "span"
+            });
+        });
+
+    </script>
+}

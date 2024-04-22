@@ -44,6 +44,9 @@ namespace eUseControl.Web
             bundles.Add(new ScriptBundle("~/bundles/jquery-validate/js").Include("~/Scripts/jquery.validate.js"));
             bundles.Add(new ScriptBundle("~/bundles/jquery-3.7.1/js").Include("~/Scripts/jquery-3.7.1.js"));
             bundles.Add(new ScriptBundle("~/bundles/jquery-3.7.1-min/js").Include("~/Scripts/jquery-3.7.1.min.js"));
+            
+            // jQuery Validation
+            bundles.Add(new ScriptBundle("~/bundles/validation/js").Include("~/Scripts/jquery.validate.min.js"));
 
             //StyleBundle: ~/Content/css/...
             bundles.Add(new StyleBundle("~/bundles/styles/material-design-iconic-font/css").Include("~/Content/css/material-design-iconic-font.min.css", new CssRewriteUrlTransform()));
