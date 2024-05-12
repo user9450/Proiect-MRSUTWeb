@@ -13,7 +13,7 @@ namespace eUseControl.Domain.Entities.User
 
         [Required]
         [StringLength(30)]
-        public string Username { get; set; }
+        public string Email { get; set; }
 
         [Required]
         public string CookieString { get; set; }

@@ -3,15 +3,12 @@ using eUseControl.Domain.Entities.User;
 
 namespace eUseControl.BusinessLogic.DBModel
 {
-     class UserContext : DbContext
+    public class UserContext : DbContext
     {
-        public UserContext() :
-            base("name=eUseControl") //connectionstring name define in
+        public UserContext() : base("name=eUseControl")
         { 
         }
 
         public virtual DbSet<UDbTable> Users { get; set; }
-
-
     }
 }

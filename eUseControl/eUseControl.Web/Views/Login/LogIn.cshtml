@@ -1,7 +1,6 @@
-﻿
-@{
+﻿@{
     ViewBag.Title = "LogIn";
-    Layout = "~/Views/Shared/_LayoutWithUser.cshtml";
+    Layout = "~/Views/Shared/_LayoutWithoutUser.cshtml";
 }
 
 @using System.Web.Optimization
@@ -15,19 +14,20 @@
                 <!-- Login Form -->
                 <form action="#">
                     @Html.ValidationSummary(true)
-                    @using (Html.BeginForm("Index", "Login", FormMethod.Post, new { @id = "LoginForm" }))
+                    @using (Html.BeginForm("LogInUser", "LogIn", FormMethod.Post))
                     {
                         @Html.AntiForgeryToken()
                         <div class="login-form">
                             <div class="form-group">
-                                @Html.LabelFor(m => m.Credential, new { @class = "control-label" })
-                                @Html.TextBoxFor(m => m.Credential, new
+                                @Html.LabelFor(m => m.Email, "Email", new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Email, new
                                 {
                                     placeholder = "example@gmail.com",
-                                    title = "Please enter you email",
-                                    @class = "form-control"
+                                    title = "Please enter your email",
+                                    @class = "form-control",
+                                    required = "required"
                                 })
-                                <span class="help-block small">Your credentials (email)</span>
+                                <span class="help-block small">User's email.</span>
                             </div>
                             <div class="form-group">
                                 @Html.LabelFor(m => m.Password, new { @class = "control-label" })
@@ -36,12 +36,13 @@
                                     @class = "form-control",
                                     type = "password",
                                     title = "Please enter your password",
-                                    placeholder = "******"
+                                    placeholder = "******",
+                                    required = "required"
                                 })
-                                <span class="help-block small">Your strong password</span>
+                                <span class="help-block small">User's password.</span>
                             </div>
                             <div class="form-group">
-                                <a href="@Url.Action("Index", "LogIn")" class="register-button mt-0">Login</a>
+                                <button type="submit">Logare</button>
                             </div>
                         </div>
                     }
@@ -51,35 +52,19 @@
     </div>
 </div>
 
-<!-- Login Content Area End Here -->
-
 @section Scripts {
     @Scripts.Render("~/bundles/validation/js")
 
     <script type="text/javascript">
-        $(function () {
+        function validateForm() {
+            var email = document.getElementById('Email').value;
+            var password = document.getElementById('Password').value;
 
-            $("#LoginForm").validate({
-                rules: {
-                    Username: {
-                        required: true
-                    },
-                    Password: {
-                        required: true
-                    }
-                },
-                submitHandler: function (form) {
-                    form.submit();
-                },
-                errorPlacement: function (error, element) {
-                    $(element)
-                        .closest("form")
-                        .find("label[for='" + element.attr("id") + "']")
-                        .append(error);
-                },
-                errorElement: "span"
-            });
-        });
-
+            if (email.trim() === '' || password.trim() === '') {
+                alert('Please enter both email and password.');
+            } else {
+                document.getElementById('LoginForm').submit();
+            }
+        }
     </script>
 }

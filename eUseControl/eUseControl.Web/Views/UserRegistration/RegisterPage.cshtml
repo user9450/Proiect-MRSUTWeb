@@ -1,0 +1,118 @@
+﻿@{
+    ViewBag.Title = "RegisterPage";
+    Layout = "~/Views/Shared/_LayoutWithoutUser.cshtml";
+}
+
+@using System.Web.Optimization
+@model eUseControl.Web.Models.UserRegister
+
+<!-- Begin Register Content Area -->
+<div class="page-section mb-60">
+    <div class="container">
+        <div class="row">
+            <div class="col-sm-12 col-md-12 col-lg-6 col-xs-12">
+                <form action="#">
+                    @Html.ValidationSummary(true)
+                    @using (Html.BeginForm("Register", "Account", FormMethod.Post, new { @id = "RegisterForm" }))
+                    {
+                        @Html.AntiForgeryToken()
+                        <div class="login-form">
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.Nume, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Nume, new
+                                {
+                                    placeholder = "Nume",
+                                    @class = "form-control"
+                                })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.Prenume, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Prenume, new
+                                {
+                                    placeholder = "Prenume",
+                                    @class = "form-control"
+                                })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.Email, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Email, new
+                                {
+                                    placeholder = "example@gmail.com",
+                                    @class = "form-control"
+                                })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.Password, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.Password, new
+                                {
+                                    @class = "form-control",
+                                    type = "password",
+                                    placeholder = "******"
+                                })
+                            </div>
+                            <div class="form-group">
+                                @Html.LabelFor(m => m.ConfirmPassword, new { @class = "control-label" })
+                                @Html.TextBoxFor(m => m.ConfirmPassword, new
+                                {
+                                    @class = "form-control",
+                                    type = "password",
+                                    placeholder = "******"
+                                })
+                            </div>
+                            <div class="form-group">
+                                <button type="submit" class="register-button mt-0">Register</button>
+                            </div>
+                        </div>
+                    }
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Register Content Area End Here -->
+
+@section Scripts {
+    @Scripts.Render("~/bundles/validation/js")
+
+    <script type="text/javascript">
+        $(function () {
+
+            $("#RegisterForm").validate({
+                rules: {
+                    Nume: {
+                        required: true
+                        minlength: 5
+                    },
+                    Prenume: {
+                        required: true
+                        minlength: 5
+                    },
+                    Email: {
+                        required: true,
+                        email: true
+                        minlength: 10
+                    },
+                    Password: {
+                        required: true,
+                        minlength: 8
+                    },
+                    ConfirmPassword: {
+                        required: true,
+                        equalTo: "#Password"
+                    }
+                },
+                submitHandler: function (form) {
+                    form.submit();
+                },
+                errorPlacement: function (error, element) {
+                    $(element)
+                        .closest("form")
+                        .find("label[for='" + element.attr("id") + "']")
+                        .append(error);
+                },
+                errorElement: "span"
+            });
+        });
+
+    </script>
+}

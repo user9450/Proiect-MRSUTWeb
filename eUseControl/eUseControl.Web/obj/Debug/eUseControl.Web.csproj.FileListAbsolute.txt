@@ -242,3 +242,7 @@ C:\Users\Iaroslav\source\repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\
 C:\Users\Iaroslav\source\repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\System.Numerics.Vectors.xml
 C:\Users\Iaroslav\source\repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\Iaroslav\source\repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\Helpers.pdb
+C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Iaroslav\Source\Repos\Proiect-MRSUTWeb\eUseControl\eUseControl.Web\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Security.Authentication;
 using System.Web;
 using System.Web.Mvc;
 using AutoMapper;
@@ -20,40 +21,58 @@ namespace eUseControl.Web.Controllers
             _session = bl.GetSessionBL();
         }
 
-        // GET: Login
-        public ActionResult LogIn()
+        // GET: LogIn
+        public ActionResult LogIn(string errorMessage = null)
         {
+            if (!string.IsNullOrEmpty(errorMessage))
+            {
+                ModelState.AddModelError("", errorMessage);
+            }
+
             return View();
         }
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Index(UserLogin login)
+        public ActionResult LogInUser(UserLogin login)
         {
             if (ModelState.IsValid)
             {
-                Mapper.Initialize(cfg => cfg.CreateMap<UserLogin, ULoginData>());
-                var data = Mapper.Map<ULoginData>(login);
-
-                data.LoginIp = Request.UserHostAddress;
-                data.LoginDateTime = DateTime.Now;
+                var config = new MapperConfiguration(cfg => cfg.CreateMap<UserLogin, ULoginData>());
+                var mapper = config.CreateMapper();
+                var data = mapper.Map<ULoginData>(login);
 
                 var userLogin = _session.UserLogin(data);
+
+                if (userLogin == null)
+                {
+                    throw new AuthenticationException("ERROR. No login response!");
+                }
+
                 if (userLogin.Status)
                 {
-                    HttpCookie cookie = _session.GenCookie(login.Credential);
+                    // Generarea cookie pentru sesiunea actuală
+                    HttpCookie cookie = _session.GenCookie(login.Email);
                     ControllerContext.HttpContext.Response.Cookies.Add(cookie);
 
-                    return RedirectToAction("Index", "Home");
+                    return RedirectToAction("HomePage", "Home");
                 }
                 else
                 {
+                    // Autentificare nereusita
                     ModelState.AddModelError("", userLogin.StatusMsg);
-                    return View();
+                    return View("LogIn", login); ;
                 }
             }
 
-            return View();
+            return RedirectToAction("HomePage", "Home");
         }
+
+        public UserMinimal GetUserDetails(string authToken)
+        {
+            return _session.GetUserByCookie(authToken);
+        }
+
+        //LogOut
     }
 }
