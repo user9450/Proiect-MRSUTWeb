@@ -8,7 +8,6 @@ using eUseControl.BusinessLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
 using eUseControl.Web.Models;
 
-
 namespace eUseControl.Web.Controllers
 
 {

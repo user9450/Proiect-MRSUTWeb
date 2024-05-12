@@ -41,7 +41,7 @@ namespace eUseControl.Web.Controllers
                 };
 
                 var userRegister = _session.UserRegister(data);
-                if (userRegister != null)
+                if (userRegister == null)
                 {
                     throw new AuthenticationException("ERROR. No registration response!");
                 }
@@ -53,7 +53,7 @@ namespace eUseControl.Web.Controllers
                 else
                 {
                     ModelState.AddModelError("", userRegister.StatusMsg);
-                    return View("Register", register);
+                    return View("RegisterPage", register);
                 }
             }
 

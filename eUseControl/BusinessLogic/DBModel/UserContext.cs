@@ -5,7 +5,7 @@ namespace eUseControl.BusinessLogic.DBModel
 {
     public class UserContext : DbContext
     {
-        public UserContext() : base("name=eUseControl")
+        public UserContext() : base("eUseControl")
         { 
         }
 
