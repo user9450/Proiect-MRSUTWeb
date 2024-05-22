@@ -1,0 +1,45 @@
+﻿@model List<eUseControl.Domain.Entities.Orders.CartItem>
+
+@{
+    ViewBag.Title = "Cart";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Shopping Cart</h2>
+
+@if (!Model.Any())
+{
+    <p>Your cart is empty.</p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Product</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Total</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.Product.Name</td>
+                    <td>@item.Quantity</td>
+                    <td>@item.Product.Price.ToString("C")</td>
+                    <td>@string.Format("{0:C}", item.Product.Price * item.Quantity)</td>
+
+                </tr>
+            }
+        </tbody>
+        <tfoot>
+            <tr>
+                <td colspan="3" class="text-right"><strong>Total:</strong></td>
+                <td><strong>@Model.Sum(x => x.Product.Price * x.Quantity).ToString("C")</strong></td>
+            </tr>
+        </tfoot>
+    </table>
+    <a href="@Url.Action("Buy", "Order")" class="btn btn-primary">Buy</a>
+}

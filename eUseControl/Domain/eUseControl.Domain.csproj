@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Entities\Orders\CartItem.cs" />
+    <Compile Include="Entities\Orders\Order.cs" />
+    <Compile Include="Entities\Orders\OrderDetail.cs" />
+    <Compile Include="Entities\Orders\Product.cs" />
     <Compile Include="Entities\User\Session.cs" />
     <Compile Include="Entities\User\UDbTable.cs" />
     <Compile Include="Entities\User\ULoginData.cs" />

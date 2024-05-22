@@ -1,4 +1,4 @@
-﻿@model eUseControl.Web.Models.UserData
+﻿@model dynamic
 
 <!-- Begin Body Wrapper -->
 <div class="body-wrapper">
@@ -26,8 +26,9 @@
                                     <div class="ht-setting-trigger"><span>Setări</span></div>
                                     <div class="setting ht-setting">
                                         <ul class="ht-setting-list">
-                                            <li><a href="">Logare/Registrare</a></li>
-                                            <li><a href="">Contul meu</a></li>
+                                            <li><a href="@Url.Action("LogIn", "Login")">Logare</a></li>
+                                            <li><a href="@Url.Action("RegisterPage", "UserRegistration")">Registrare</a></li>
+                                            <li><a href="">Deconectare</a></li>
                                         </ul>
                                     </div>
                                 </li>
@@ -72,25 +73,10 @@
                         <div class="header-middle-right">
                             <ul class="hm-menu">
                                 <!-- Begin Header Mini Cart Area -->
-                                <li class="hm-minicart">
-                                    <div class="hm-minicart-trigger">
-                                        <span class="item-icon"></span>
-                                        <span class="item-text">
-                                            MDL 0.00
-                                            <span class="cart-item-count">0</span>
-                                        </span>
-                                    </div>
-                                    <span></span>
-                                    <div class="minicart">
-                                        <ul class="minicart-product-list">
-                                        </ul>
-                                        <p class="minicart-total">SUBTOTAL: <span>MDL 0.00</span></p>
-                                        <div class="minicart-button">
-                                            <a href="" class="li-button li-button-dark li-button-fullwidth li-button-sm">
-                                                <span>View Full Cart</span>
-                                            </a>
-                                        </div>
-                                    </div>
+                                <li class="hm-minicart" onclick="window.location.href = '/cart';" style="cursor: pointer;">
+                                    <a href="" class="li-button li-button-dark li-button-fullwidth li-button-sm">
+                                        <span>View Cart</span>
+                                    </a>
                                 </li>
                                 <!-- Header Mini Cart Area End Here -->
                             </ul>

@@ -361,6 +361,7 @@
     <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
+    <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\UserRegistrationController.cs" />
     <Compile Include="Extension\HttpContextExtensions.cs" />
     <Compile Include="Global.asax.cs">
@@ -403,14 +404,13 @@
     <Content Include="Scripts\bootstrap.esm.js.map" />
     <Content Include="Scripts\bootstrap.bundle.min.js.map" />
     <Content Include="Scripts\bootstrap.bundle.js.map" />
-    <Content Include="Views\Shared\_LayoutWithoutUser.cshtml" />
+    <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Login\LogIn.cshtml" />
-    <Content Include="Views\Shared\_HeaderWithoutUser.cshtml" />
-    <Content Include="Views\Shared\_HeaderWithUser.cshtml" />
-    <Content Include="Views\Shared\_LayoutWithUser.cshtml" />
+    <Content Include="Views\Shared\_Header.cshtml" />
     <Content Include="Views\Shared\_Footer.cshtml" />
     <Content Include="Views\UserRegistration\RegisterPage.cshtml" />
     <Content Include="Views\Admin\AdminPage.cshtml" />
+    <Content Include="Views\Order\Index.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

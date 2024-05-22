@@ -17,7 +17,7 @@ namespace eUseControl.Web
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
-                defaults: new { controller = "UserRegistration", action = "RegisterPage", id = UrlParameter.Optional }
+                defaults: new { controller = "Login", action = "LogIn", id = UrlParameter.Optional }
             );
         }
     }
