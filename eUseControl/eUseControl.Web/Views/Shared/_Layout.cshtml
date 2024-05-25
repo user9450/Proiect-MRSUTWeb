@@ -1,14 +1,14 @@
 ﻿@using System.Web.Optimization
 
-<!doctype html>
+<!DOCTYPE html>
+
 <html class="no-js" lang="zxx">
-
 <head>
-    <meta charset="utf-8">
-    <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-    <title>Limupa Shop</title>
+    <title>EasyPlay</title>
 
     <!--Google Fonts-->
     <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900">
@@ -17,20 +17,20 @@
     <link href="~/Content/images/favicon.png" rel="icon">
 
     <!--Vendor CSS Files-->
+    <!--Styles.Render("~/bundles/styles/Site/css")-->
+    @Styles.Render("~/bundles/styles/helper/css")
+    @Styles.Render("~/bundles/styles/jquery-ui/css")
+    @Styles.Render("~/bundles/styles/bootstrap/css")
     @Styles.Render("~/bundles/styles/material-design-iconic-font/css")
     @Styles.Render("~/bundles/styles/font-awesome/css")
     @Styles.Render("~/bundles/styles/font-awesome-stars/css")
-    @Styles.Render("~/bundles/styles/meanmenu/css")
     @Styles.Render("~/bundles/styles/owl-carousel/css")
     @Styles.Render("~/bundles/styles/slick/css")
     @Styles.Render("~/bundles/styles/animate/css")
-    @Styles.Render("~/bundles/styles/jquery-ui/css")
     @Styles.Render("~/bundles/styles/venobox/css")
     @Styles.Render("~/bundles/styles/nice-select/css")
     @Styles.Render("~/bundles/styles/magnific-popup/css")
-    @Styles.Render("~/bundles/styles/bootstrap/css")
-    @Styles.Render("~/bundles/styles/helper/css")
-    @Styles.Render("~/bundles/styles/responsive/css")
+    @Styles.Render("~/bundles/styles/meanmenu/css")
 
     @if (IsSectionDefined("Styles"))
     {
@@ -39,9 +39,14 @@
 
     <!--Main CSS File-->
     @Styles.Render("~/bundles/styles/style/css")
+    @Styles.Render("~/bundles/styles/responsive/css")
+
+
 </head>
 
 <body>
+
+    <div class="body-wrapper">
 
         <!--Header-->
         <header class="li-header-4">
@@ -60,16 +65,16 @@
 
         <!--Vendor JS Files-->
         @Scripts.Render("~/bundles/popper/js")
+        @Scripts.Render("~/bundles/jquery-3.7.1/js")
         @Scripts.Render("~/bundles/jquery-1.12.4/js")
         @Scripts.Render("~/bundles/modernizr-2.8.3/js")
 
         <!--Other-->
-        @Scripts.Render("~/bundles/bootstrap/js")
+        @Scripts.Render("~/bundles/jquery-ui/js")
+        @Scripts.Render("~/bundles/jquery-validate/js")
         @Scripts.Render("~/bundles/scrollUp/js")
         @Scripts.Render("~/bundles/venobox/js")
-        @Scripts.Render("~/bundles/ajax-mail/js")
         @Scripts.Render("~/bundles/jquery-nice-select/js")
-        @Scripts.Render("~/bundles/jquery-ui/js")
         @Scripts.Render("~/bundles/jquery-barrating/js")
         @Scripts.Render("~/bundles/waypoints/js")
         @Scripts.Render("~/bundles/jquery-counterup/js")
@@ -81,12 +86,13 @@
         @Scripts.Render("~/bundles/owl-carousel/js")
         @Scripts.Render("~/bundles/slick/js")
         @Scripts.Render("~/bundles/wow/js")
-        @Scripts.Render("~/bundles/jquery-meanmenu/js")
         @Scripts.Render("~/bundles/popper/js")
-        @Scripts.Render("~/bundles/jquery-1.12.4/js")
-        @Scripts.Render("~/bundles/jquery-validate/js")
-        @Scripts.Render("~/bundles/jquery-3.7.1/js")
-        @Scripts.Render("~/bundles/jquery-3.7.1-min/js")
+        <!--Scripts.Render("~/bundles/jquery-1.12.4/js")-->
+        <!--Scripts.Render("~/bundles/jquery-3.7.1/js")-->
+        <!--Scripts.Render("~/bundles/jquery-3.7.1-min/js")-->
+        @Scripts.Render("~/bundles/ajax-mail/js")
+        @Scripts.Render("~/bundles/bootstrap/js")
+        @Scripts.Render("~/bundles/jquery-meanmenu/js")
 
         <!-- Template Main JS File -->
         @Scripts.Render("~/bundles/main/js")
