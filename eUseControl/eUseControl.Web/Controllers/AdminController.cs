@@ -10,7 +10,6 @@ namespace eUseControl.Web.Controllers
     [AdminMod]
     public class AdminController : Controller
     {
-        // GET: Admin
         public ActionResult AdminPage()
         {
             return View();

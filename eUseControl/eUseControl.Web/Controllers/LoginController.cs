@@ -6,6 +6,7 @@ using AutoMapper;
 using eUseControl.BusinessLogic;
 using eUseControl.BusinessLogic.Interfaces;
 using eUseControl.Domain.Entities.User;
+using eUseControl.Web.Attribute;
 using eUseControl.Web.Models;
 
 namespace eUseControl.Web.Controllers
@@ -20,7 +21,6 @@ namespace eUseControl.Web.Controllers
             _session = bl.GetSessionBL();
         }
 
-        // GET: LogIn
         public ActionResult LogIn(string errorMessage = null)
         {
             if (!string.IsNullOrEmpty(errorMessage))
@@ -72,6 +72,19 @@ namespace eUseControl.Web.Controllers
             return _session.GetUserByCookie(authToken);
         }
 
-        //LogOut
+        [UserMod]
+        public ActionResult Logout()
+        {
+            if (Request.Cookies["X-KEY"] != null)
+            {
+                var c = new HttpCookie("X-KEY");
+                c.Expires = DateTime.Now.AddDays(-1);
+                Response.Cookies.Add(c);
+            }
+
+            Session.Abandon();
+
+            return RedirectToAction("LogIn", "Login");
+        }
     }
 }

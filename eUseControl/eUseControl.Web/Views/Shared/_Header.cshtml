@@ -23,14 +23,10 @@
                             <ul class="ht-menu">
                                 <!-- Begin Setting Area -->
                                 <li>
-                                    <div class="ht-setting-trigger"><span>Setări</span></div>
-                                    <div class="setting ht-setting">
-                                        <ul class="ht-setting-list">
-                                            <li><a href="@Url.Action("LogIn", "Login")">Logare</a></li>
-                                            <li><a href="@Url.Action("RegisterPage", "UserRegistration")">Registrare</a></li>
-                                            <li><a href="">Deconectare</a></li>
-                                        </ul>
-                                    </div>
+                                <li><a href="@Url.Action("LogIn", "Login")">Logare</a></li>
+                                <li><a href="@Url.Action("RegisterPage", "UserRegistration")">Registrare</a></li>
+                                <li><a href="@Url.Action("LogOut", "Login")">Deconectare</a></li>
+                                <li><a href="@Url.Action("MyCabinet", "Account")">MyCabinet</a></li>
                                 </li>
                                 <!-- Setting Area End Here -->
                             </ul>
@@ -73,11 +69,12 @@
                         <div class="header-middle-right">
                             <ul class="hm-menu">
                                 <!-- Begin Header Mini Cart Area -->
-                                <li class="hm-minicart" onclick="window.location.href = '/cart';" style="cursor: pointer;">
-                                    <a href="" class="li-button li-button-dark li-button-fullwidth li-button-sm">
-                                        <span>View Cart</span>
+                                <li class="hm-minicart">
+                                    <a href="@Url.Action("Index", "Order")" class="hm-minicart-trigger">
+                                        <span class="item-icon"></span>
                                     </a>
                                 </li>
+
                                 <!-- Header Mini Cart Area End Here -->
                             </ul>
                         </div>
@@ -97,37 +94,35 @@
                         <div class="hb-menu">
                             <nav>
                                 <ul>
-                                    <li class="dropdown-holder">
-                                        <a href="">Home</a>
-                                    </li>
+                                    <li><a href="@Url.Action("HomePage", "Home")">Home</a></li="dropdown-holder">
                                     <li class="megamenu-holder">
                                         <a href="">Shop</a>
                                         <ul class="megamenu hb-megamenu">
                                             <li>
                                                 <a href="">Jocuri</a>
                                                 <ul>
-                                                    <li><a href="">Playstation</a></li>
-                                                    <li><a href="">Xbox</a></li>
-                                                    <li><a href="">Nintendo</a></li>
-                                                    <li><a href="">PC</a></li>
+                                                    <li><a>Playstation</a></li>
+                                                    <li><a>Xbox</a></li>
+                                                    <li><a>Nintendo</a></li>
+                                                    <li><a>PC</a></li>
                                                 </ul>
                                             </li>
                                             <li>
                                                 <a href="">Consoale</a>
                                                 <ul>
-                                                    <li><a href="">Playstation</a></li>
-                                                    <li><a href="">Xbox</a></li>
-                                                    <li><a href="">Nintendo</a></li>
-                                                    <li><a href="">Steam Deck</a></li>
+                                                    <li><a>Playstation</a></li>
+                                                    <li><a>Xbox</a></li>
+                                                    <li><a>Nintendo</a></li>
+                                                    <li><a>Steam Deck</a></li>
                                                 </ul>
                                             </li>
                                             <li>
                                                 <a href="">Accesorii</a>
                                                 <ul>
-                                                    <li><a href="">Playstation</a></li>
-                                                    <li><a href="">Xbox</a></li>
-                                                    <li><a href="">Nintendo</a></li>
-                                                    <li><a href="">PC</a></li>
+                                                    <li><a>Playstation</a></li>
+                                                    <li><a>Xbox</a></li>
+                                                    <li><a>Nintendo</a></li>
+                                                    <li><a>PC</a></li>
                                                 </ul>
                                             </li>
                                         </ul>

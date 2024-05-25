@@ -7,9 +7,11 @@ using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
+using eUseControl.Web.Attribute;
 
 namespace eUseControl.Web.Controllers
 {
+    [UserMod]
     public class OrderController : Controller
     {
         private readonly OrderContext _context;
@@ -79,7 +81,12 @@ namespace eUseControl.Web.Controllers
             _context.CartItems.RemoveRange(cartItems);
             _context.SaveChanges();
 
-            return RedirectToAction("OrderConfirmation");
+            return RedirectToAction("ThankYou");
+        }
+
+        public ActionResult ThankYou()
+        {
+            return View();
         }
 
         // USELESS SHIT
