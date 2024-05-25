@@ -96,7 +96,6 @@ namespace eUseControl.BusinessLogic.Core
                     return null;
                 }
 
-                Mapper.Initialize(cfg => cfg.CreateMap<UDbTable, UserMinimal>());
                 var userminimal = Mapper.Map<UserMinimal>(currentUser);
 
                 return userminimal;

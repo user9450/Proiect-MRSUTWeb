@@ -17,11 +17,12 @@ namespace eUseControl.Web
     {
         protected void Application_Start()
         {
-            // Code that runs on application startup
-            AreaRegistration.RegisterAllAreas();
-            RouteConfig.RegisterRoutes(RouteTable.Routes);
-            FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
-            BundleConfig.RegisterBundles(BundleTable.Bundles);
+          AreaRegistration.RegisterAllAreas();
+          RouteConfig.RegisterRoutes(RouteTable.Routes);
+          FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
+          BundleConfig.RegisterBundles(BundleTable.Bundles);
+
+          AutoMapperConfig.Initialize();
 
         }
     }
