@@ -22,8 +22,8 @@ namespace eUseControl.Web.Attribute
                     filterContext.Result = new RedirectToRouteResult(
                         new RouteValueDictionary
                         {
-                            { "controller", "Login" },
-                            { "action", "LogIn" },
+                            { "controller", "Home" },
+                            { "action", "HomePage" },
                             { "errorMessage", "Mai întâi loghează-te." }
                         });
                 }
@@ -36,8 +36,8 @@ namespace eUseControl.Web.Attribute
                     filterContext.Result = new RedirectToRouteResult(
                         new RouteValueDictionary
                         {
-                            { "controller", "Login" },
-                            { "action", "LogIn" },
+                            { "controller", "Home" },
+                            { "action", "HomePage" },
                             { "errorMessage", "Nu ai permisiuni de a accesa pagina." }
                         });
                 }
@@ -47,8 +47,8 @@ namespace eUseControl.Web.Attribute
                 filterContext.Result = new RedirectToRouteResult(
                     new RouteValueDictionary
                     {
-                        { "controller", "Login" },
-                        { "action", "LogIn" },
+                        { "controller", "Home" },
+                        { "action", "HomePage" },
                         { "errorMessage", "Mai întâi loghează-te." }
                     });
             }

@@ -8,7 +8,7 @@ using eUseControl.Web.Extension;
 
 namespace eUseControl.Web.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController : LoginController
     {
         private readonly ISession _session;
         private readonly OrderContext _context;
@@ -22,8 +22,13 @@ namespace eUseControl.Web.Controllers
 
         public ActionResult HomePage()
         {
+            if (TempData["ErrorMessage"] != null)
+            {
+                ViewBag.ErrorMessage = TempData["ErrorMessage"];
+            }
+
             var products = _context.Products.ToList(); // Get products from DB
-            return View(products); // Trimite produsele la View
+            return View(products);
         }
     }
 }

@@ -10,7 +10,7 @@ using System.Web.Mvc;
 
 namespace eUseControl.Web.Controllers
 {
-    public class UserRegistrationController : Controller
+    public class UserRegistrationController : LoginController
     {
         private readonly ISession _session;
 
@@ -20,9 +20,16 @@ namespace eUseControl.Web.Controllers
             _session = bl.GetSessionBL();
         }
 
-        // GET: Register
         public ActionResult RegisterPage()
         {
+            // Verifică utilizatorul după Token, dacă este autorizat
+            var authToken = Request.Cookies["X-KEY"]?.Value;
+            if (authToken != null && GetUserDetails(authToken) != null)
+            {
+                TempData["ErrorMessage"] = "[!] Sunteți deja logat.";
+                return RedirectToAction("HomePage", "Home");
+            }
+
             return View();
         }
 

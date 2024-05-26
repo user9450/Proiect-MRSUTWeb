@@ -11,7 +11,6 @@ using eUseControl.Web.Attribute;
 
 namespace eUseControl.Web.Controllers
 {
-    [UserMod]
     public class OrderController : Controller
     {
         private readonly OrderContext _context;
@@ -29,6 +28,13 @@ namespace eUseControl.Web.Controllers
 
         public ActionResult AddToCart(int productId)
         {
+            var authToken = Request.Cookies["X-KEY"]?.Value;
+            if (authToken == null)
+            {
+                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru a adauga produsul în coș.";
+                return RedirectToAction("HomePage", "Home");
+            }
+
             var product = _context.Products.Find(productId);
             if (product == null)
             {

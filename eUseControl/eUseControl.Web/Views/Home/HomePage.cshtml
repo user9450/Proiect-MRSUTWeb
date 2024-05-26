@@ -5,6 +5,13 @@
 
 @model dynamic
 
+@if (!string.IsNullOrEmpty(ViewBag.ErrorMessage))
+{
+    <div class="alert alert-danger" role="alert">
+        @ViewBag.ErrorMessage
+    </div>
+}
+
 <h2>Our Products</h2>
 
 <div class="row">

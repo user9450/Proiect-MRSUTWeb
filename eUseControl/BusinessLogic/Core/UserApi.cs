@@ -18,7 +18,7 @@ namespace eUseControl.BusinessLogic.Core
         internal ULoginResp UserLoginAction(ULoginData data)
         {
             UDbTable user;
-            //var pass = LoginHelper.HashGen(data.Password); - fix
+            //var pass = LoginHelper.HashGen(data.Password);
 
             using (var db = new UserContext())
             {
@@ -35,7 +35,6 @@ namespace eUseControl.BusinessLogic.Core
             // Add cookie to response
             HttpContext.Current.Response.Cookies.Add(apiCookie);
 
-            // Status true la autentificare
             return new ULoginResp { Status = true };
         }
 
@@ -56,7 +55,7 @@ namespace eUseControl.BusinessLogic.Core
                 {
                     session.CookieString = apiCookie.Value;
                     session.ExpireTime = DateTime.Now.AddMinutes(60);
-                    session.Email = loginCredential; // store Email in session
+                    session.Email = loginCredential;
                     db.Entry(session).State = EntityState.Modified;
                 }
                 else
@@ -69,7 +68,7 @@ namespace eUseControl.BusinessLogic.Core
                     });
                 }
 
-                db.SaveChanges(); // Salvare in DB
+                db.SaveChanges();
             }
 
             return apiCookie;
@@ -111,7 +110,6 @@ namespace eUseControl.BusinessLogic.Core
                 user = db.Users.FirstOrDefault(u => u.Email == data.Email);
             }
 
-            // If the user already exists, return an appropriate response
             if (user != null)
             {
                 return new ULoginResp { Status = false, StatusMsg = "User already exists" };

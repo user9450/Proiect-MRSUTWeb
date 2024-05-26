@@ -1,36 +1,38 @@
-﻿using System;
-using System.Security.Authentication;
-using System.Web;
+﻿using System.Linq;
 using System.Web.Mvc;
-using AutoMapper;
-using eUseControl.BusinessLogic;
-using eUseControl.BusinessLogic.Interfaces;
+using eUseControl.BusinessLogic.DBModel;
 using eUseControl.Domain.Entities.User;
 using eUseControl.Web.Attribute;
 using eUseControl.Web.Models;
 
-
 namespace eUseControl.Web.Controllers
 {
-    [UserMod]
     public class AccountController : LoginController
     {
-        // GET: Account
+        private readonly UserContext _context;
+
+        public AccountController()
+        {
+            _context = new UserContext();
+        }
+
         public ActionResult MyCabinet()
         {
             var authToken = Request.Cookies["X-KEY"]?.Value;
             if (authToken == null)
             {
-                return RedirectToAction("LogIn", "Login");
+                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru a accesa cabinetul.";
+                return RedirectToAction("HomePage", "Home");
             }
 
             var currentUser = GetUserDetails(authToken);
-
             if (currentUser == null)
             {
-                return RedirectToAction("LogIn", "Login");
+                TempData["ErrorMessage"] = "[!] Nu am putut găsi detaliile utilizatorului.";
+                return RedirectToAction("HomePage", "Home");
             }
 
+            // Afisarea informatie despre User
             var model = new UserData
             {
                 Nume = currentUser.Nume,
@@ -42,23 +44,34 @@ namespace eUseControl.Web.Controllers
             return View(model);
         }
 
-        /*
         [HttpPost]
         public ActionResult UpdateUser(UserData model)
         {
-            // Verifică dacă modelul este valid
             if (!ModelState.IsValid)
             {
-                return View("MyCabinet", model); // afișează pagina "My Cabinet" cu erorile
+                return View("MyCabinet", model);
             }
 
-            // Actualizează informațiile utilizatorului în baza de date
-            UpdateUserInDatabase(model); // implementează această metodă pentru a actualiza utilizatorul în baza de date
+            UpdateUserInDatabase(model);
 
-            // Redirectează către acțiunea MyCabinet pentru a afișa noile informații
             return RedirectToAction("MyCabinet");
         }
-        */
-    }
 
+        private void UpdateUserInDatabase(UserData model)
+        {
+            var user = _context.Users.SingleOrDefault(u => u.Email == model.Email);
+            if (user != null)
+            {
+                user.Nume = model.Nume;
+                user.Prenume = model.Prenume;
+                user.Password = model.Password;
+
+                _context.SaveChanges();
+            }
+            else
+            {
+                ModelState.AddModelError("", "User not found.");
+            }
+        }
+    }
 }

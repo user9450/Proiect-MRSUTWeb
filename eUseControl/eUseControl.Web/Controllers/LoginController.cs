@@ -21,11 +21,14 @@ namespace eUseControl.Web.Controllers
             _session = bl.GetSessionBL();
         }
 
-        public ActionResult LogIn(string errorMessage = null)
+        public ActionResult LogIn()
         {
-            if (!string.IsNullOrEmpty(errorMessage))
+            // Verifică utilizatorul după Token, dacă este autorizat
+            var authToken = Request.Cookies["X-KEY"]?.Value;
+            if (authToken != null && GetUserDetails(authToken) != null)
             {
-                ModelState.AddModelError("", errorMessage);
+                TempData["ErrorMessage"] = "[!] Sunteți deja logat.";
+                return RedirectToAction("HomePage", "Home");
             }
 
             return View();

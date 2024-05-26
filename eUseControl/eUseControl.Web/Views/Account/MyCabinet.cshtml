@@ -6,7 +6,7 @@
 
 <h2>My Cabinet</h2>
 
-@using (Html.BeginForm("UpdateUser", "Home", FormMethod.Post))
+@using (Html.BeginForm("UpdateUser", "Account", FormMethod.Post))
 {
     @Html.ValidationSummary(true)
 
@@ -22,7 +22,8 @@
     </div>
     <div>
         @Html.LabelFor(m => m.Email)
-        @Html.EditorFor(m => m.Email)
+        <p>@Model.Email</p>
+        @Html.HiddenFor(m => m.Email)
         @Html.ValidationMessageFor(m => m.Email)
     </div>
     <div>
