@@ -22,6 +22,13 @@ namespace eUseControl.Web.Controllers
 
         public ActionResult Index()
         {
+            var authToken = Request.Cookies["X-KEY"]?.Value;
+            if (authToken == null)
+            {
+                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru vizualiza coșul cu produse.";
+                return RedirectToAction("HomePage", "Home");
+            }
+
             var cart = GetCartItems();
             return View(cart);
         }
@@ -73,7 +80,7 @@ namespace eUseControl.Web.Controllers
 
             var order = new Order
             {
-                UserId = "User123", // Ar trebui înlocuit cu ID-ul utilizatorului actual
+                UserId = "User123", // Trebuie înlocuit
                 OrderDate = DateTime.Now,
                 OrderDetails = cartItems.Select(c => new OrderDetail
                 {

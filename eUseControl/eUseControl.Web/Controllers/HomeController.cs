@@ -24,7 +24,7 @@ namespace eUseControl.Web.Controllers
         {
             if (TempData["ErrorMessage"] != null)
             {
-                ViewBag.ErrorMessage = TempData["ErrorMessage"];
+                ViewBag.ErrorMessage = TempData["ErrorMessage"]; // Mesajele de eroare 
             }
 
             var products = _context.Products.ToList(); // Get products from DB
