@@ -246,7 +246,8 @@
     <Content Include="Content\images\menu\flag-icon\2.jpg" />
     <Content Include="Content\images\menu\li-bg-menu.jpg" />
     <Content Include="Content\images\menu\logo\1.jpg" />
-    <Content Include="Content\images\menu\logo\2.jpg" />
+    <Content Include="Content\images\menu\logo\1.png" />
+    <Content Include="Content\images\menu\logo\2.png" />
     <Content Include="Content\images\payment\1.png" />
     <Content Include="Content\images\product-details\1.jpg" />
     <Content Include="Content\images\product-details\admin.png" />

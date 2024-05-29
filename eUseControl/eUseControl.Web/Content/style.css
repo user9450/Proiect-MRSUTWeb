@@ -72,7 +72,7 @@
 /*  1.1 Basic
 /*----------------------------------------*/
 body {
-	color: #242424;
+	color: #3d3a3d;
 	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-style: normal;
@@ -84,7 +84,7 @@ a {
 	transition: 0.3s ease-in-out;
 }
 a:hover {
-	color: #fed700;
+	color: #9900ff;
 }
 .img {
 	max-width: 100%;
@@ -97,7 +97,7 @@ a:hover {
 }
 a:focus,
 a:hover {
-	color: #fed700;
+	color: #9900ff;
 	text-decoration: none;
 }
 a,
@@ -160,7 +160,7 @@ p {
 	font-size: 14px;
 	font-weight: normal;
 	line-height: 24px;
-	color: #898989;
+	color: #9f1fc2;
 	margin-bottom: 15px;
 }
 hr {
@@ -314,7 +314,7 @@ textarea {
 /*----------------------------------------*/
 button.li-btn {
 	border: none;
-	background: #fed700;
+	background: #9f1fc2;
 	color: #242424;
 	font-size: 20px;
 	width: 45px;
@@ -1311,9 +1311,9 @@ textarea:focus {
 /*----------------------------------------*/
 /*  2.1 Header
 /*----------------------------------------*/
-/*Header Top*/
+/*Header Top #f8f9f9*/
 .header-top {
-	background: #f8f9f9;
+	background: #4a4275;
 	padding: 12px 0;
 	border-bottom: 1px solid #e1e1e1;
 }
@@ -1389,7 +1389,7 @@ textarea:focus {
 	display: none;
 }
 .setting, .currency, .language {
-		border-top: 2px solid #fed700;
+		border-top: 2px solid #9900ff;
 		padding: 20px 20px 10px;
 		background: #ffffff;
 		text-align: left;
@@ -1403,21 +1403,21 @@ textarea:focus {
 .currency, .language {
 		min-width: 120px;
 }
-.currency li {
+	.currency li {
 		padding: 0 10px;
-		color: #636363;
+		color: #9f1fc2;
 		line-height: 22px;
 		font-size: 12px;
-}
+	}
 .ht-setting-list > li {
 		transition: all 0.3s ease-in-out;
 }
-.ht-setting-list > li.active {
-	background: #fed700;
-}
-.ht-setting-list > li:hover {
-		background: #fed700;
-}
+	.ht-setting-list > li.active {
+		background: #9f1fc2;
+	}
+	.ht-setting-list > li:hover {
+		background: #9f1fc2;
+	}
 .ht-setting-list > li > a {
 	padding: 0 10px;
 	display: block;
@@ -1525,7 +1525,7 @@ textarea:focus {
 }
 .hm-minicart-trigger {
 		border-radius: 2px;
-		background: #e80f0f;
+		background: #75123e;
 		color: #fff;
 		height: 45px;
 		cursor: pointer;
@@ -1710,7 +1710,7 @@ textarea:focus {
 	position: relative;
 	z-index: 1;
 	overflow: hidden;
-	background: #fed700;
+	background: #9F1FC2;
 	color: #ffffff;
 	line-height: 50px;
 	margin-top: 10px;
@@ -1728,14 +1728,14 @@ textarea:focus {
 	background: #242424;
 	color: #ffffff;
 }
-.li-button-dark:hover {
-	background: #fed700;
-	color: #ffffff;
-}
+	.li-button-dark:hover {
+		background: #9f1fc2;
+		color: #ffffff;
+	}
 /*Header Bottom Menu*/
 .header-bottom {
-		background: #fed700;
-		margin-bottom: 20px;
+	background: #9f1fc2;
+	margin-bottom: 20px;
 }
 .hb-menu > nav > ul {
 		position: relative;
@@ -1769,7 +1769,6 @@ textarea:focus {
 		color: #ffffff;
 }
 .hb-menu nav > ul > li > a::after {
-	content: "\f107";
 	position: absolute;
 	top: 8px;
 	right: 15px;
@@ -1782,7 +1781,7 @@ textarea:focus {
 	content: none;
 }
 .hb-menu nav > ul > li:hover  a::after {
-	transform: rotate(180deg);
+	/*transform: rotate(180deg);*/
 }
 .ht-menu > li .ht-currency-trigger span::after,
 .ht-menu > li .ht-language-trigger span::after,
@@ -1796,10 +1795,10 @@ textarea:focus {
 	transition: all 0.3s ease-in-out;
 }
 .ht-menu > li:hover .ht-currency-trigger span,
-.ht-menu > li:hover .ht-currency-trigger span::after, 
+.ht-menu > li:hover .ht-currency-trigger span::after,
 .ht-menu > li:hover .ht-language-trigger span,
 .ht-menu > li:hover .ht-language-trigger span::after {
-	color: #fed700;
+	color: #9f1fc2;
 }
 .ht-menu > li .ht-setting-trigger span::after, 
 .ht-menu > li .ht-currency-trigger span::after, 
@@ -1818,7 +1817,7 @@ textarea:focus {
 .ht-menu > li .ht-currency-trigger.is-active span::after, 
 .ht-menu > li .ht-language-trigger.is-active span::after,
 .hm-minicart-trigger.is-active .item-text::after {
-	transform: rotate(-180deg);
+	/*transform: rotate(-180deg);*/
 }
 .megamenu {
 	background: #ffffff;
@@ -1977,10 +1976,10 @@ textarea:focus {
 	transition: all 0.3s ease-in-out 0s;
 }
 .hb-menu nav ul > li > ul.hb-dropdown > li.active > a {
-		color: #fed700;
+	color: #9f1fc2;
 }
 .hb-menu nav ul > li > ul.hb-dropdown > li > a:hover {
-	color: #fed700;
+	color: #9f1fc2;
 }
 /*Header Bottom Sub Dropdown Menu*/
 .hb-menu nav > ul > li > ul > li > ul.hb-sub-dropdown {
@@ -2009,15 +2008,15 @@ textarea:focus {
 	color: #242424;
 }
 .hb-menu nav ul > li > ul.hb-dropdown > li.sub-dropdown-holder:hover::after {
-		transform: rotate(-90deg);
-		color: #fed700;
+	transform: rotate(-90deg);
+	color: #9f1fc2;
 }
 .hb-menu nav ul > li > ul.hb-dropdown > li.sub-dropdown-holder > ul > li > a {
 		display: block;
 		padding: 6px 20px;
 }
 .hb-menu nav ul > li > ul.hb-dropdown > li.sub-dropdown-holder:hover > a {
-		color: #fed700;
+	color: #9f1fc2;
 }
 /*----------------------------------------*/
 /*  2.2 Slider
@@ -2974,7 +2973,7 @@ text-align: center;
 /*  03. Home Page Two
 /*----------------------------------------*/
 .li-header-4 {
-	background: #293a6c;
+	background: #100c14;
 }
 .li-header-4 .header-top {
 	background: transparent;
@@ -2994,7 +2993,7 @@ text-align: center;
 	background: #ffffff;
 }
 .li-header-4 .header-bottom {
-	background: #293a6c;
+	background: #100c14;
 	border-top: 1px solid rgba(255,255,255,.1);
 	color: #ffffff;
 }
@@ -3003,10 +3002,10 @@ text-align: center;
 	color: #ffffff;
 	transition: all 0.3s ease-in-out;
 }
-.li-header-4 .hb-menu nav > ul > li:hover > a, 
-.li-header-4 .hb-menu nav > ul > li:hover > a::after {
-	color: #fed700;
-}
+	.li-header-4 .hb-menu nav > ul > li:hover > a,
+	.li-header-4 .hb-menu nav > ul > li:hover > a::after {
+		color: #9f1fc2;
+	}
 /*Header Bottom*/
 .hb-info {
 	line-height: 50px;
@@ -3118,7 +3117,7 @@ text-align: center;
 	transition: all 0.3s ease-in-out;
 }
 .category-menu-list > ul > li.right-menu > a:hover::after {
-	transform: rotate(-90deg);
+	/*transform: rotate(-90deg);*/
 }
 .category-menu-list > ul > li.rx-parent > a,
 .category-menu-list > ul > li.rx-show a {
@@ -4493,13 +4492,13 @@ thead {
 	-webkit-border-radius: 5px;
 	-moz-border-radius: 5px;
 	border-radius: 5px;
-	background-color: #fed700;
+	background-color: #9f1fc2;
 	padding: 0 20px;
 	text-transform: uppercase;
 	display: inline-block;
 }
 .li-btn-2:focus {
-	background-color: #fed700;
+	background-color: #9f1fc2;
 }
 .li-btn-2:hover {
 	color: #ffffff;
