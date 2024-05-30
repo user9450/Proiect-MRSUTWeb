@@ -94,7 +94,7 @@ namespace eUseControl.Web.Controllers
 
             var order = new Order
             {
-                UserId = currentUser.Email,
+                UserId = currentUser.Email, // UserId
                 OrderDate = DateTime.Now,
                 OrderDetails = cartItems.Select(c => new OrderDetail
                 {
