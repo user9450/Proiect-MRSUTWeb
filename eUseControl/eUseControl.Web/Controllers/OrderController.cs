@@ -11,7 +11,7 @@ using eUseControl.Web.Attribute;
 
 namespace eUseControl.Web.Controllers
 {
-    public class OrderController : Controller
+    public class OrderController : LoginController
     {
         private readonly OrderContext _context;
 
@@ -72,6 +72,20 @@ namespace eUseControl.Web.Controllers
 
         public ActionResult Buy()
         {
+            var authToken = Request.Cookies["X-KEY"]?.Value;
+            if (authToken == null)
+            {
+                TempData["ErrorMessage"] = "[!] Nu sunteți autentificat pentru a finaliza cumpărăturile.";
+                return RedirectToAction("HomePage", "Home");
+            }
+
+            var currentUser = GetUserDetails(authToken);
+            if (currentUser == null)
+            {
+                TempData["ErrorMessage"] = "[!] Nu s-a putut obține detaliile utilizatorului.";
+                return RedirectToAction("HomePage", "Home");
+            }
+
             var cartItems = GetCartItems();
             if (!cartItems.Any())
             {
@@ -80,7 +94,7 @@ namespace eUseControl.Web.Controllers
 
             var order = new Order
             {
-                UserId = "User123", // Trebuie înlocuit
+                UserId = currentUser.Email, // UserId
                 OrderDate = DateTime.Now,
                 OrderDetails = cartItems.Select(c => new OrderDetail
                 {

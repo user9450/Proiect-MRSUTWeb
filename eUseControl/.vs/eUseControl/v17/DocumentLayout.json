@@ -1,253 +1,253 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\",
+  "WorkspaceRootPath": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\qima\\source\\repos\\proiect-mrsutweb\\eusecontrol\\eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\iaroslav\\source\\repos\\proiect-mrsutweb\\eusecontrol\\eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\adminpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\account\\mycabinet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\account\\mycabinet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\account\\mycabinet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\extension\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\extension\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\extension\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|solutionrelative:helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|solutionrelative:helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\uregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\ordercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\automapperconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\meanmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\meanmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\meanmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BusinessLogic\\Core\\UseraApi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -256,71 +256,68 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1720C3A/UserContext/True/SqlTable/dbo.UserContext.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\Helpers.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\Helpers.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\Helpers.csproj|solutionrelative:helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1720C3A/UserContext/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -330,17 +327,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 0,
               "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
               "RelativeToolTip": "eUseControl.Web\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGUAAAAaAAAA",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFEAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T10:18:11.316Z",
               "IsPinned": true,
@@ -348,226 +345,167 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 12,
               "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
               "RelativeToolTip": "eUseControl.Web\\Controllers\\AccountController.cs",
               "ViewState": "AQIAACQAAAAAAAAAAAAowCEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-25T10:58:13.653Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
               "RelativeToolTip": "eUseControl.Web\\Controllers\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:08:19.364Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 14,
               "Title": "UserRegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\UserRegistrationController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
               "RelativeToolTip": "eUseControl.Web\\Controllers\\UserRegistrationController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-11T14:52:44.758Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Home\\HomePage.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Home\\HomePage.cshtml",
-              "ViewState": "AQIAADAAAAAAAAAAAAAAAEQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-21T19:09:19.99Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\style.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\style.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\style.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\style.css",
-              "ViewState": "AQIAAPsHAAAAAAAAAAAswBQIAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T19:21:05.364Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "index-4.html",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\index-4.html",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
-              "RelativeToolTip": "eUseControl.Web\\Content\\index-4.html",
-              "ViewState": "AQIAALMBAAAAAAAAAADgv8QBAABDAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-05-19T18:02:36.128Z",
-              "EditorCaption": ""
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:01:40.575Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:01:40.575Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:02:00.093Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RegisterPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T14:53:00.816Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\Site.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\Site.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\Site.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\Site.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-24T19:28:43.521Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "responsive.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\responsive.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
-              "RelativeToolTip": "eUseControl.Web\\Content\\css\\responsive.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAAAiAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T19:20:59.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LogIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Login\\LogIn.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Login\\LogIn.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-20T10:55:30.406Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\_ViewStart.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-09T17:32:55.79Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "_Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAsAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAADgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-04-20T11:20:26.776Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\style.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\style.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\style.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\style.css",
+              "ViewState": "AQIAAJQFAAAAAAAAAAAswPcFAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T19:21:05.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "bootstrap-reboot.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\bootstrap-reboot.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\bootstrap-reboot.css",
               "ViewState": "AQIAAJoBAAAAAAAAAAAswK8BAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-04-20T15:46:14.368Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T15:46:14.368Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 5,
+              "Title": "index-4.html",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\index-4.html",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
+              "RelativeToolTip": "eUseControl.Web\\Content\\index-4.html",
+              "ViewState": "AQIAABgAAAAAAAAAAAAqwDIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-05-19T18:02:36.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Site.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\Site.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\Site.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\Site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-24T19:28:43.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAqwGYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:02:00.093Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Order\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:25:44.854Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T10:25:44.854Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 9,
+              "Title": "HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Home\\HomePage.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-21T19:09:19.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.config",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\Web.config",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.config",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.config",
               "RelativeToolTip": "eUseControl.Web\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -576,193 +514,203 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 11,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "eUseControl.Web\\Controllers\\HomeController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:25:20.366Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:25:20.366Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 17,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "eUseControl.Web\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T14:57:43.094Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T14:57:43.094Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserModAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "RelativeToolTip": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:16:14.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminModAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "RelativeToolTip": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:17:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
+              "RelativeToolTip": "eUseControl.Web\\App_Start\\FilterConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T10:58:33.423Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 20,
-              "Title": "UserModAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "RelativeToolTip": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAxAAAA",
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:16:14.643Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:23:06.974Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "AdminModAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "RelativeToolTip": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:17:19.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T09:19:27.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AdminPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T09:22:09.174Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
-              "RelativeToolTip": "eUseControl.Web\\App_Start\\FilterConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:58:33.423Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "BaseController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\BaseController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\BaseController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\BaseController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\BaseController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:23:06.974Z",
-              "EditorCaption": ""
+              "Title": "MyCabinet.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T11:05:21.219Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 23,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Title": "UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
+              "RelativeToolTip": "eUseControl.Web\\Models\\UserRegister.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:19:27.826Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:02:13.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "RegisterPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-11T14:53:00.816Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 25,
-              "Title": "AdminPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\AdminPage.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Login\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Login\\LogIn.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T09:22:09.174Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T10:55:30.406Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 26,
-              "Title": "MyCabinet.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T11:05:21.219Z",
-              "EditorCaption": ""
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
+              "RelativeToolTip": "eUseControl.Web\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:20.571Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 27,
-              "Title": "UserRegister.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserRegister.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
-              "RelativeToolTip": "eUseControl.Web\\Models\\UserRegister.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Title": "UserData.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
+              "RelativeToolTip": "eUseControl.Web\\Models\\UserData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:02:13.395Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-21T11:59:40.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 28,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
-              "RelativeToolTip": "eUseControl.Web\\Models\\UserLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Title": "HttpContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Extension\\HttpContextExtensions.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
+              "RelativeToolTip": "eUseControl.Web\\Extension\\HttpContextExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T16:07:20.571Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-16T15:56:57.692Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 29,
-              "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserData.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
-              "RelativeToolTip": "eUseControl.Web\\Models\\UserData.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-21T11:59:40.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-20T13:40:54.939Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 30,
-              "Title": "HttpContextExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Extension\\HttpContextExtensions.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
-              "RelativeToolTip": "eUseControl.Web\\Extension\\HttpContextExtensions.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T15:56:57.692Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
-              "RelativeToolTip": "eUseControl.Web\\App_Start\\BundleConfig.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-20T13:40:54.939Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
               "Title": "CookieGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeDocumentMoniker": "Helpers\\CookieGenerator.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeToolTip": "Helpers\\CookieGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -770,11 +718,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 31,
               "Title": "LoginHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\LoginHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\LoginHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\LoginHelper.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\LoginHelper.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\LoginHelper.cs",
               "RelativeToolTip": "Helpers\\LoginHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -782,11 +730,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 32,
               "Title": "URole.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\URole.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeToolTip": "Domain\\Enums\\URole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -794,11 +742,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 33,
               "Title": "UserMinimal.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UserMinimal.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UserMinimal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -806,11 +754,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 34,
               "Title": "URegisterData.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\URegisterData.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\URegisterData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -818,11 +766,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 35,
               "Title": "ULoginResp.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginResp.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginResp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -830,11 +778,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 36,
               "Title": "ULoginData.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -842,11 +790,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 37,
               "Title": "UDbTable.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UDbTable.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UDbTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -854,11 +802,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 38,
               "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\Session.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\Session.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -866,11 +814,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 39,
               "Title": "BussinesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\BussinesLogic.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
               "RelativeToolTip": "BusinessLogic\\BussinesLogic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -878,11 +826,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 40,
               "Title": "OrderContext.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\OrderContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\OrderContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\OrderContext.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\OrderContext.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\OrderContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\OrderContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -890,11 +838,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 41,
               "Title": "SessionContext.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\SessionContext.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\SessionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -902,11 +850,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 42,
               "Title": "SessionBL.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\SessionBL.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
               "RelativeToolTip": "BusinessLogic\\SessionBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -914,11 +862,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 43,
               "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\UserContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -926,11 +874,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 44,
               "Title": "UserApi.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Core\\UserApi.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
               "RelativeToolTip": "BusinessLogic\\Core\\UserApi.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwIQAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -938,11 +886,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 45,
               "Title": "AdminApi.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Core\\AdminApi.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
               "RelativeToolTip": "BusinessLogic\\Core\\AdminApi.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -950,24 +898,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 46,
               "Title": "AutoMapperConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\AutoMapperConfig.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\AutoMapperConfig.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\AutoMapperConfig.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\AutoMapperConfig.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\AutoMapperConfig.cs",
               "RelativeToolTip": "eUseControl.Web\\App_Start\\AutoMapperConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T09:55:25.177Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T09:55:25.177Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 47,
               "Title": "SessionBL.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\SessionBL.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
               "RelativeToolTip": "BusinessLogic\\SessionBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -975,186 +922,200 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 48,
               "Title": "ThankYou.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:24:51.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-25T10:24:51.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 49,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Global.asax.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Global.asax.cs",
               "RelativeToolTip": "eUseControl.Web\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T10:29:47.232Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-12T10:29:47.232Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 79,
               "Title": "_LayoutWithUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
               "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-19T18:31:41.062Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 53,
               "Title": "meanmenu.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\meanmenu.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\meanmenu.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-19T18:29:14.725Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-19T18:29:14.725Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 54,
               "Title": "jquery-ui.min.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\jquery-ui.min.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\jquery-ui.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T20:17:13.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T20:17:13.602Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 50,
               "Title": "_LayoutWithoutUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
               "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-12T11:16:17.397Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "responsive.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
+              "RelativeToolTip": "eUseControl.Web\\Content\\css\\responsive.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-21T19:20:59.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 78,
               "Title": "_HeaderWithoutUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
               "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-19T18:14:06.157Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\bootstrap-grid.css",
-              "ViewState": "AQIAALQAAAAAAAAAAIBZwAAAAAAAAAAA",
+              "ViewState": "AQIAALcAAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-24T19:34:32.916Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-24T19:34:32.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 80,
               "Title": "_HeaderWithUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
               "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-05-21T19:21:38.778Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 55,
               "Title": "helper.css",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\helper.css",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\helper.css",
-              "ViewState": "AQIAANYgAAAAAAAAAIBZwAAAAAAAAAAA",
+              "ViewState": "AQIAANkgAAAAAAAAAIBJwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-05-21T20:17:19.53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\packages.config",
-              "RelativeDocumentMoniker": "eUseControl.Web\\packages.config",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\packages.config",
-              "RelativeToolTip": "eUseControl.Web\\packages.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-10T11:33:22.116Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "jquery.validate.js",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Scripts\\jquery.validate.js",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
-              "RelativeToolTip": "eUseControl.Web\\Scripts\\jquery.validate.js",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2024-04-21T11:05:44.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-21T20:17:19.53Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 58,
-              "Title": "ApplicationInsights.config",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
-              "RelativeDocumentMoniker": "eUseControl.Web\\ApplicationInsights.config",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
-              "RelativeToolTip": "eUseControl.Web\\ApplicationInsights.config",
-              "ViewState": "AQIAAEoAAAAAAAAAAABRwAAAAAAAAAAA",
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\packages.config",
+              "RelativeDocumentMoniker": "eUseControl.Web\\packages.config",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\packages.config",
+              "RelativeToolTip": "eUseControl.Web\\packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-04-19T06:23:32.733Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T11:33:22.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Scripts\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
+              "RelativeToolTip": "eUseControl.Web\\Scripts\\jquery.validate.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-04-21T11:05:44.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ApplicationInsights.config",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
+              "RelativeDocumentMoniker": "eUseControl.Web\\ApplicationInsights.config",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
+              "RelativeToolTip": "eUseControl.Web\\ApplicationInsights.config",
+              "ViewState": "AQIAAEwAAAAAAAAAAABBwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-04-19T06:23:32.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "web.config",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\web.config",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\web.config",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\web.config",
+              "RelativeToolTip": "eUseControl.Web\\Views\\web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-19T18:24:35.086Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 60,
-              "Title": "web.config",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\web.config",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\web.config",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\web.config",
-              "RelativeToolTip": "eUseControl.Web\\Views\\web.config",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-05-19T18:24:35.086Z",
-              "EditorCaption": ""
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-09T17:32:55.79Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 61,
               "Title": "UseraApi.cs",
               "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Core\\UseraApi.cs",
               "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs",
+              "RelativeToolTip": "BusinessLogic\\Core\\UseraApi.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T08:17:24.334Z"
             },
@@ -1182,9 +1143,9 @@
               "$type": "Document",
               "DocumentIndex": 64,
               "Title": "CookieGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeDocumentMoniker": "Helpers\\CookieGenerator.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeToolTip": "Helpers\\CookieGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1194,9 +1155,9 @@
               "$type": "Document",
               "DocumentIndex": 65,
               "Title": "UserMinimal.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UserMinimal.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UserMinimal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1206,9 +1167,9 @@
               "$type": "Document",
               "DocumentIndex": 66,
               "Title": "ULoginResp.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginResp.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginResp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1218,9 +1179,9 @@
               "$type": "Document",
               "DocumentIndex": 67,
               "Title": "ULoginData.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1230,9 +1191,9 @@
               "$type": "Document",
               "DocumentIndex": 68,
               "Title": "UDbTable.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UDbTable.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UDbTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1242,9 +1203,9 @@
               "$type": "Document",
               "DocumentIndex": 69,
               "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\Session.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\Session.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1254,9 +1215,9 @@
               "$type": "Document",
               "DocumentIndex": 70,
               "Title": "URole.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\URole.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeToolTip": "Domain\\Enums\\URole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1266,9 +1227,9 @@
               "$type": "Document",
               "DocumentIndex": 71,
               "Title": "BussinesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\BussinesLogic.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
               "RelativeToolTip": "BusinessLogic\\BussinesLogic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1278,9 +1239,9 @@
               "$type": "Document",
               "DocumentIndex": 72,
               "Title": "ISession.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\ISession.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
               "RelativeToolTip": "BusinessLogic\\Interfaces\\ISession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1290,9 +1251,9 @@
               "$type": "Document",
               "DocumentIndex": 73,
               "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\UserContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1302,9 +1263,9 @@
               "$type": "Document",
               "DocumentIndex": 74,
               "Title": "SessionContext.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\SessionContext.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\SessionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1323,9 +1284,9 @@
               "$type": "Document",
               "DocumentIndex": 76,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "BusinessLogic\\Properties\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1335,14 +1296,13 @@
               "$type": "Document",
               "DocumentIndex": 77,
               "Title": "Web.Debug.config",
-              "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Debug.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\Web.Debug.config",
-              "ToolTip": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Debug.config",
               "RelativeToolTip": "eUseControl.Web\\Web.Debug.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-03-10T11:33:20.51Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-10T11:33:20.51Z"
             }
           ]
         }
