@@ -276,6 +276,7 @@
     <Content Include="Content\images\shipping-icon\3.png" />
     <Content Include="Content\images\shipping-icon\4.png" />
     <Content Include="Content\images\slider\1.jpg" />
+    <Content Include="Content\images\slider\1.png" />
     <Content Include="Content\images\slider\10.jpg" />
     <Content Include="Content\images\slider\11.jpg" />
     <Content Include="Content\images\slider\12.jpg" />
@@ -288,6 +289,7 @@
     <Content Include="Content\images\slider\8.jpg" />
     <Content Include="Content\images\slider\9.jpg" />
     <Content Include="Content\images\static-top\1.jpg" />
+    <Content Include="Content\images\static-top\st.jpg" />
     <Content Include="Content\images\team\1.png" />
     <Content Include="Content\images\team\2.png" />
     <Content Include="Content\images\team\3.png" />

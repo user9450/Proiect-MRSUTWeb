@@ -130,6 +130,9 @@ h5 a,
 h6 a {
 	color: inherit
 }
+.slidercolor {
+	color: #fff; !important;
+}
 h1 {
 	font-size: 35px;
 	font-weight: 500;
@@ -331,13 +334,13 @@ button.li-btn:hover {
 	background: #333333;
 	color: #ffffff;
 }
-a.links, 
-a.links-2, 
+a.links,
+a.links-2,
 a.review-links {
-	background: #fed700 none repeat scroll 0 0;
-	color: #242424;
+	background: #5232e3 none repeat scroll 0 0;
+	color: #fff;
 	display: inline-block;
-	font-family: Montserrat;
+	font-family: 'Rubik', sans-serif;
 	font-size: 14px;
 	font-weight: 700;
 	height: 50px;
@@ -431,8 +434,8 @@ textarea {
 	background: #eceff8;
 	border: 2px solid #eceff8;
 	padding: 10px;
-	width: 100%;
 	font-size: 14px;
+	max-width: 300px; !important;
 }
 textarea:focus {
 	background: transparent;
@@ -1525,7 +1528,7 @@ textarea:focus {
 }
 .hm-minicart-trigger {
 		border-radius: 2px;
-		background: #75123e;
+		background: #5232e3;
 		color: #fff;
 		height: 45px;
 		cursor: pointer;
@@ -2037,7 +2040,7 @@ textarea:focus {
 	margin-bottom: 10px;
 }
 .slider-content > h5 > span {
-	color: #e80f0f;
+	color: #5232e3;
 }
 .slider-content > h2 {
 	font-size: 35px;
@@ -2054,7 +2057,7 @@ textarea:focus {
 }
 .slider-content > h3 > span {
 	font-size: 30px;
-	color: #e80f0f;
+	color: #5232e3;
 }
 /*----------------------------------------*/
 /*  2.3 Li's Static Top
@@ -2065,7 +2068,7 @@ textarea:focus {
 	font-size: 16px;
 	padding: 20px 0;
 	color: #fff;
-	background-image: url(images/static-top/1.jpg);
+	background-image: url(images/static-top/st.jpg);
 	background-size: cover;
 	margin-top: 20px;
 }
@@ -5430,6 +5433,9 @@ span.required {
 .small-version {
   display: none;
 }
+
+
+
 /*----------------------------------------------------------------------------------------------------*/
 /*------------------------------------------> The End <-----------------------------------------------*/
 /*----------------------------------------------------------------------------------------------------*/
