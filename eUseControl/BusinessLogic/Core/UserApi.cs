@@ -10,6 +10,8 @@ using eUseControl.Domain.Enums;
 using eUseControl.Helpers;
 using EntityState = System.Data.Entity.EntityState;
 using Domain.Entities.User;
+using System.Data.Entity.Validation;
+using eUseControl;
 
 namespace eUseControl.BusinessLogic.Core
 {
@@ -101,8 +103,14 @@ namespace eUseControl.BusinessLogic.Core
             }
         }
 
-        internal ULoginResp UserRegisterAction(URegisterData data)
+        internal ULoginResp UserRegisterAction(UserRegister data)
         {
+            if (string.IsNullOrWhiteSpace(data.Nume) || string.IsNullOrWhiteSpace(data.Prenume) ||
+                string.IsNullOrWhiteSpace(data.Email) || string.IsNullOrWhiteSpace(data.Password))
+            {
+                return new ULoginResp { Status = false, StatusMsg = "Toate câmpurile sunt obligatorii." };
+            }
+
             UDbTable user;
 
             using (var db = new UserContext())
@@ -125,15 +133,29 @@ namespace eUseControl.BusinessLogic.Core
                 Level = URole.User
             };
 
-            // Save the new user to the database
-            using (var db = new UserContext())
+            try
             {
-                Database.SetInitializer<UserContext>(new CreateDatabaseIfNotExists<UserContext>());
-                db.Users.Add(user);
-                db.SaveChanges();
+                // Save the new user to the database
+                using (var db = new UserContext())
+                {
+                    Database.SetInitializer<UserContext>(new CreateDatabaseIfNotExists<UserContext>());
+                    db.Users.Add(user);
+                    db.SaveChanges();
+                }
+            }
+            catch (DbEntityValidationException ex)
+            {
+                foreach (var entityValidationErrors in ex.EntityValidationErrors)
+                {
+                    foreach (var validationError in entityValidationErrors.ValidationErrors)
+                    {
+                        System.Diagnostics.Debug.WriteLine($"Property: {validationError.PropertyName} Error: {validationError.ErrorMessage}");
+                    }
+                }
+                return new ULoginResp { Status = false, StatusMsg = "Eroare de validare. Verificați datele și încercați din nou." };
             }
 
-            // Succes
+            // Success
             return new ULoginResp { Status = true, StatusMsg = "Utilizatorul a fost înregistrat cu succes." };
         }
     }
