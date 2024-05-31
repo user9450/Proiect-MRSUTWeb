@@ -103,7 +103,7 @@ namespace eUseControl.BusinessLogic.Core
             }
         }
 
-        internal ULoginResp UserRegisterAction(UserRegister data)
+        internal ULoginResp UserRegisterAction(URegisterData data)
         {
             if (string.IsNullOrWhiteSpace(data.Nume) || string.IsNullOrWhiteSpace(data.Prenume) ||
                 string.IsNullOrWhiteSpace(data.Email) || string.IsNullOrWhiteSpace(data.Password))

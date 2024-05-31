@@ -368,6 +368,7 @@
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
     <Compile Include="Controllers\OrderController.cs" />
+    <Compile Include="Controllers\PCGamesController.cs" />
     <Compile Include="Controllers\UserRegistrationController.cs" />
     <Compile Include="Extension\HttpContextExtensions.cs" />
     <Compile Include="Global.asax.cs">
@@ -419,6 +420,7 @@
     <Content Include="Views\Order\Index.cshtml" />
     <Content Include="Views\Order\ThankYou.cshtml" />
     <Content Include="Views\Account\MyCabinet.cshtml" />
+    <Content Include="Views\PCGames\PCGames.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

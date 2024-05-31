@@ -34,23 +34,23 @@
                     </div>
                 </div>
             </div>
-<!-- Begin Li Banner Area -->
-<div class="col-lg-4 col-md-4 text-center pt-sm-30 pt-xs-30">
-    <div class="li-banner">
-        <a href="#">
-            <img src="~/Content/images/banner/1_1.jpg" alt="">
-        </a>
-    </div>
-    <div class="li-banner mt-15 mt-md-30 mt-xs-25 mb-xs-5">
-        <a href="#">
-            <img src="~/Content/images/banner/1_2.jpg" alt="">
-        </a>
-    </div>
-</div>
-<!-- Li Banner Area End Here -->
-                    </div>
+            <!-- Begin Li Banner Area -->
+            <div class="col-lg-4 col-md-4 text-center pt-sm-30 pt-xs-30">
+                <div class="li-banner">
+                    <a href="#">
+                        <img src="~/Content/images/banner/1_1.jpg" alt="">
+                    </a>
+                </div>
+                <div class="li-banner mt-15 mt-md-30 mt-xs-25 mb-xs-5">
+                    <a href="#">
+                        <img src="~/Content/images/banner/1_2.jpg" alt="">
+                    </a>
                 </div>
             </div>
+            <!-- Li Banner Area End Here -->
+        </div>
+    </div>
+</div>
 <!-- Slider With Banner Area End Here -->
 <!-- Begin Static Top Area -->
 <div class="static-top-wrap">
@@ -58,32 +58,38 @@
         <div class="row">
             <div class="col-lg-12">
                 <div class="static-top-content mt-sm-30">
-                    Gift Special: Gift every single day on Weekends - New Coupon code "
-                    <span>LimupaSaleoff</span>
+                    <span></span>
                 </div>
             </div>
         </div>
     </div>
-    <div><h2>Our Products</h2></div>
+
 </div>
 
 
 
 
-<div class="row">
-    @foreach (var product in Model)
-    {
-        <div class="col-md-3">
-            <div class="card">
-                <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
-                <div class="card-body">
-                    <h5 class="card-title">@product.Name</h5>
-                    <p class="card-text">@product.Description</p>
-                    <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
-                    <a href="@Url.Action("AddToCart", "Order", new { productId = product.ProductId })" class="btn btn-primary">Add to Cart</a>
+<div class="container">
+    <h3 align ="center" padding-top="15px">Top Sellers</h3>
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            if (product.ProductType == 4)
+            {
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                        <div class="card-body">
+                            <h5 class="card-title">@product.Name</h5>
+                            <p class="card-text">@product.Description</p>
+                            <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
+                            <a href="@Url.Action("AddToCart", "Order", new { productId = product.ProductId })" class="btn btn-primary">Add to Cart</a>
+                        </div>
+                    </div>
                 </div>
-            </div>
-        </div>
-    }
-    }
+            }
+        }
+    </div>
 </div>
+
+    <!--.Where(p => p.ProductType == 4)-->
