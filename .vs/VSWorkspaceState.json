@@ -3,13 +3,11 @@
     "",
     "\\eUseControl",
     "\\eUseControl\\eUseControl.Web",
-    "\\eUseControl\\eUseControl.Web\\App_Start",
-    "\\eUseControl\\eUseControl.Web\\Content",
     "\\eUseControl\\eUseControl.Web\\Controllers",
     "\\eUseControl\\eUseControl.Web\\Views",
     "\\eUseControl\\eUseControl.Web\\Views\\Home",
     "\\eUseControl\\eUseControl.Web\\Views\\Shared"
   ],
-  "SelectedNode": "\\eUseControl\\eUseControl.Web\\Web.config",
+  "SelectedNode": "\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
   "PreviewInSolutionExplorer": false
 }

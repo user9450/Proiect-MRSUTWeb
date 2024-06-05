@@ -20,10 +20,10 @@ namespace eUseControl.Web.Controllers
             _session = bl.GetSessionBL();
             _context = new OrderContext();
         }
-        // GET: ConsoleGames
+
         public ActionResult ConsoleGames()
         {
-            var products = _context.Products.ToList(); // Get products from DB
+            var products = _context.Products.ToList();
             return View(products);
         }
     }

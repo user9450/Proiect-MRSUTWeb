@@ -364,7 +364,6 @@
     <Compile Include="Attribute\UserModAttribute.cs" />
     <Compile Include="Controllers\AccountController.cs" />
     <Compile Include="Controllers\AdminController.cs" />
-    <Compile Include="Controllers\BaseController.cs" />
     <Compile Include="Controllers\ConsoleGamesController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\LoginController.cs" />
@@ -417,12 +416,15 @@
     <Content Include="Views\Shared\_Header.cshtml" />
     <Content Include="Views\Shared\_Footer.cshtml" />
     <Content Include="Views\UserRegistration\RegisterPage.cshtml" />
-    <Content Include="Views\Admin\AdminPage.cshtml" />
     <Content Include="Views\Order\Index.cshtml" />
     <Content Include="Views\Order\ThankYou.cshtml" />
     <Content Include="Views\Account\MyCabinet.cshtml" />
     <Content Include="Views\PCGames\PCGames.cshtml" />
     <Content Include="Views\ConsoleGames\ConsoleGames.cshtml" />
+    <Content Include="Views\Admin\Index.cshtml" />
+    <Content Include="Views\Admin\Create.cshtml" />
+    <Content Include="Views\Admin\Edit.cshtml" />
+    <Content Include="Views\Admin\Orders.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -432,7 +434,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Views\Base\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\BusinessLogic\eUseControl.BusinessLogic.csproj">

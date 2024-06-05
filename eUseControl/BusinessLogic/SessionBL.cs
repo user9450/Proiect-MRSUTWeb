@@ -27,4 +27,4 @@ namespace eUseControl.BusinessLogic
             return UserCookie(apiCookieValue);
         }
     }
-    }
+}

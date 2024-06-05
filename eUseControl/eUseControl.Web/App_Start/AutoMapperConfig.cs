@@ -8,7 +8,6 @@ public static class AutoMapperConfig
           Mapper.Initialize(cfg =>
           {
                cfg.CreateMap<UDbTable, UserMinimal>();
-               // Adaugă aici toate mapping-urile tale
           });
      }
 }

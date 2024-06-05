@@ -20,6 +20,7 @@ else
                 <th>Quantity</th>
                 <th>Price</th>
                 <th>Total</th>
+                <th>Actions</th>
             </tr>
         </thead>
         <tbody>
@@ -30,13 +31,15 @@ else
                     <td>@item.Quantity</td>
                     <td>@item.Product.Price.ToString("C")</td>
                     <td>@string.Format("{0:C}", item.Product.Price * item.Quantity)</td>
-
+                    <td>
+                        <a href="@Url.Action("RemoveFromCart", "Order", new { productId = item.Product.ProductId })" class="btn btn-danger">Delete</a>
+                    </td>
                 </tr>
             }
         </tbody>
         <tfoot>
             <tr>
-                <td colspan="3" class="text-right"><strong>Total:</strong></td>
+                <td colspan="4" class="text-right"><strong>Total:</strong></td>
                 <td><strong>@Model.Sum(x => x.Product.Price * x.Quantity).ToString("C")</strong></td>
             </tr>
         </tfoot>

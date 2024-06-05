@@ -20,7 +20,6 @@ namespace eUseControl.BusinessLogic.Core
         internal ULoginResp UserLoginAction(ULoginData data)
         {
             UDbTable user;
-            //var pass = LoginHelper.HashGen(data.Password);
 
             using (var db = new UserContext())
             {

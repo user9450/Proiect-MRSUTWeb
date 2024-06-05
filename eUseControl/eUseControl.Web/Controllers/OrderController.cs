@@ -116,15 +116,6 @@ namespace eUseControl.Web.Controllers
             return View();
         }
 
-        // USELESS SHIT
-        public ActionResult ViewOrders()
-        {
-            var orders = _context.Orders
-                .Include(o => o.OrderDetails.Select(od => od.Product))
-                .ToList();
-            return View(orders);
-        }
-
         private string GetCartId()
         {
             if (Session["CartId"] == null)
@@ -139,5 +130,27 @@ namespace eUseControl.Web.Controllers
             var cartId = GetCartId();
             return _context.CartItems.Where(c => c.CartId == cartId).Include(c => c.Product).ToList();
         }
+
+        public ActionResult RemoveFromCart(int productId)
+        {
+            var authToken = Request.Cookies["X-KEY"]?.Value;
+            if (authToken == null)
+            {
+                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru a șterge produsul din coș.";
+                return RedirectToAction("HomePage", "Home");
+            }
+
+            string cartId = GetCartId();
+            var cartItem = _context.CartItems.SingleOrDefault(c => c.Product.ProductId == productId && c.CartId == cartId);
+
+            if (cartItem != null)
+            {
+                _context.CartItems.Remove(cartItem);
+                _context.SaveChanges();
+            }
+
+            return RedirectToAction("Index");
+        }
+
     }
 }

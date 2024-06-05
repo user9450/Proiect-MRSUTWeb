@@ -2,11 +2,11 @@
 
 namespace eUseControl.BusinessLogic
 {
-     public class BussinesLogic
-     {
-          public ISession GetSessionBL()
-          {
-               return new SessionBL();
-          }
-     }
+    public class BussinesLogic
+    {
+        public ISession GetSessionBL()
+        {
+            return new SessionBL();
+        }
+    }
 }

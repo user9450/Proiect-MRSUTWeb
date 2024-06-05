@@ -1,0 +1,58 @@
+﻿@model List<eUseControl.Domain.Entities.Orders.Product>
+
+@{
+    ViewBag.Title = "Admin Dashboard";
+}
+
+<h2>Admin Dashboard</h2>
+
+<p>
+    @Html.ActionLink("Create New Product", "Create")
+</p>
+
+<table class="table">
+    <tr>
+        <th>Name</th>
+        <th>Price</th>
+        <th>Description</th>
+        <th>ImageUrl</th>
+        <th>Product Type</th>
+        <th>Actions</th>
+    </tr>
+    @foreach (var product in Model)
+    {
+        <tr>
+            <td>@product.Name</td>
+            <td>@product.Price</td>
+            <td>@product.Description</td>
+            <td>@product.ImageUrl</td>
+            <td>@product.ProductType</td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = product.ProductId }) |
+                <a href="#" onclick="deleteProduct(@product.ProductId)">Delete</a>
+            </td>
+        </tr>
+    }
+</table>
+
+@Html.AntiForgeryToken()
+
+<script>
+    function deleteProduct(productId) {
+        if (confirm('Are you sure you want to delete this product?')) {
+            var form = document.createElement('form');
+            form.method = 'POST';
+            form.action = '/Admin/Delete/' + productId;
+
+            var csrfToken = document.querySelector('input[name="__RequestVerificationToken"]').value;
+            var csrfInput = document.createElement('input');
+            csrfInput.type = 'hidden';
+            csrfInput.name = '__RequestVerificationToken';
+            csrfInput.value = csrfToken;
+            form.appendChild(csrfInput);
+
+            document.body.appendChild(form);
+            form.submit();
+        }
+    }
+</script>

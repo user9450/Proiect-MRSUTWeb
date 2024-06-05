@@ -13,6 +13,6 @@ namespace eUseControl.Domain.Entities.Orders
         public decimal Price { get; set; }
         public string Description { get; set; }
         public string ImageUrl { get; set; }
-        public int ProductType { get; set; }  // 1 = PC , 2 = PS , 3 = NIN , 4 = FP
+        public int ProductType { get; set; }  // 1 = PC Games , 2 = Console Games , 3 = Nintendo Games , 4 = Home Page
     }
 }
