@@ -11,6 +11,7 @@ using eUseControl.Web.Attribute;
 
 namespace eUseControl.Web.Controllers
 {
+     [UserMod]
     public class OrderController : LoginController
     {
         private readonly OrderContext _context;
@@ -23,8 +24,8 @@ namespace eUseControl.Web.Controllers
         public ActionResult Index()
         {
             var authToken = Request.Cookies["X-KEY"]?.Value;
-            if (authToken == null)
-            {
+               if (authToken == null && GetUserDetails(authToken) == null)
+               {
                 TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru vizualiza coșul cu produse.";
                 return RedirectToAction("HomePage", "Home");
             }
@@ -36,8 +37,8 @@ namespace eUseControl.Web.Controllers
         public ActionResult AddToCart(int productId)
         {
             var authToken = Request.Cookies["X-KEY"]?.Value;
-            if (authToken == null)
-            {
+               if (authToken == null && GetUserDetails(authToken) == null)
+               {
                 TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru a adauga produsul în coș.";
                 return RedirectToAction("HomePage", "Home");
             }

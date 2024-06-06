@@ -82,7 +82,7 @@
                         <div class="card-body">
                             <h5 class="card-title">@product.Name</h5>
                             <p class="card-text">@product.Description</p>
-                            <p class="card-text"><strong>@product.Price.ToString("C")</strong></p>
+                            <p class="card-text"><strong>@product.Price.ToString("C2", System.Globalization.CultureInfo.GetCultureInfo("en-US"))</strong></p>
                             <a href="@Url.Action("AddToCart", "Order", new { productId = product.ProductId })" class="btn btn-primary">Adaugă la coș</a>
                         </div>
                     </div>
