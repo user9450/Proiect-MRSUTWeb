@@ -1,13 +1,13 @@
 ﻿using Domain.Entities.Orders;
 using eUseControl.BusinessLogic.DBModel;
 using eUseControl.Domain.Entities.Orders;
+using eUseControl.Web.Attribute;
 using System;
 using System.Collections.Generic;
 using System.Data.Entity;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using eUseControl.Web.Attribute;
 
 namespace eUseControl.Web.Controllers
 {
@@ -23,26 +23,12 @@ namespace eUseControl.Web.Controllers
 
         public ActionResult Index()
         {
-            var authToken = Request.Cookies["X-KEY"]?.Value;
-               if (authToken == null && GetUserDetails(authToken) == null)
-               {
-                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru vizualiza coșul cu produse.";
-                return RedirectToAction("HomePage", "Home");
-            }
-
             var cart = GetCartItems();
             return View(cart);
         }
 
         public ActionResult AddToCart(int productId)
         {
-            var authToken = Request.Cookies["X-KEY"]?.Value;
-               if (authToken == null && GetUserDetails(authToken) == null)
-               {
-                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru a adauga produsul în coș.";
-                return RedirectToAction("HomePage", "Home");
-            }
-
             var product = _context.Products.Find(productId);
             if (product == null)
             {
@@ -74,11 +60,6 @@ namespace eUseControl.Web.Controllers
         public ActionResult Buy()
         {
             var authToken = Request.Cookies["X-KEY"]?.Value;
-            if (authToken == null)
-            {
-                TempData["ErrorMessage"] = "[!] Nu sunteți autentificat pentru a finaliza cumpărăturile.";
-                return RedirectToAction("HomePage", "Home");
-            }
 
             var currentUser = GetUserDetails(authToken);
             if (currentUser == null)
@@ -95,7 +76,7 @@ namespace eUseControl.Web.Controllers
 
             var order = new Order
             {
-                UserId = currentUser.Email, // UserId
+                UserId = currentUser.Email,
                 OrderDate = DateTime.Now,
                 OrderDetails = cartItems.Select(c => new OrderDetail
                 {

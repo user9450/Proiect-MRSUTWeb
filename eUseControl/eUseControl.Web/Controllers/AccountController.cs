@@ -7,6 +7,7 @@ using eUseControl.Web.Models;
 
 namespace eUseControl.Web.Controllers
 {
+     [UserMod]
     public class AccountController : LoginController
     {
         private readonly UserContext _context;
@@ -19,11 +20,6 @@ namespace eUseControl.Web.Controllers
         public ActionResult MyCabinet()
         {
             var authToken = Request.Cookies["X-KEY"]?.Value;
-            if (authToken == null)
-            {
-                TempData["ErrorMessage"] = "[!] Nu sunteți logat pentru a accesa cabinetul.";
-                return RedirectToAction("HomePage", "Home");
-            }
 
             var currentUser = GetUserDetails(authToken);
             if (currentUser == null)

@@ -1,0 +1,58 @@
+﻿@model List<eUseControl.Domain.Entities.User.UDbTable>
+
+@{
+     ViewBag.Title = "Users";
+}
+
+<p>
+     @Html.ActionLink("Create New User", "CreateUser")
+</p>
+
+<table class="table">
+     <tr>
+          <th>User Id</th>
+          <th>Email</th>
+          <th>Nume</th>
+          <th>Prenume</th>
+          <th>Parola</th>
+          <th>Nivelul de acces</th>
+          <th>Actions</th>
+     </tr>
+     @foreach (var user in Model)
+     {
+          <tr>
+               <td>@user.Id</td>
+               <td>@user.Email</td>
+               <td>@user.Nume</td>
+               <td>@user.Prenume</td>
+               <td>@user.Password</td>
+               <td>@user.Level</td>
+               <td>
+                    @Html.ActionLink("Edit", "EditUser", new { id = user.Id }) |
+                    <a href="#" onclick="deleteUser(@user.Id)">Delete</a>
+               </td>
+          </tr>
+     }
+</table>
+
+@Html.AntiForgeryToken()
+
+<script>
+     function deleteUser(userId) {
+          if (confirm('Are you sure you want to delete this user?')) {
+               var form = document.createElement('form');
+               form.method = 'POST';
+               form.action = '/Admin/DeleteUser/' + userId;
+
+               var csrfToken = document.querySelector('input[name="__RequestVerificationToken"]').value;
+               var csrfInput = document.createElement('input');
+               csrfInput.type = 'hidden';
+               csrfInput.name = '__RequestVerificationToken';
+               csrfInput.value = csrfToken;
+               form.appendChild(csrfInput);
+
+               document.body.appendChild(form);
+               form.submit();
+          }
+     }
+</script>

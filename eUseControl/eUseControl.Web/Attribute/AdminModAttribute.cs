@@ -1,7 +1,7 @@
-﻿using System.Web.Mvc;
-using System.Web.Routing;
-using eUseControl.Domain.Enums;
+﻿using eUseControl.Domain.Enums;
 using eUseControl.Web.Controllers;
+using System.Web.Mvc;
+using System.Web.Routing;
 
 namespace eUseControl.Web.Attribute
 {
@@ -19,47 +19,33 @@ namespace eUseControl.Web.Attribute
 
                     if (currentUser == null)
                     {
+                         filterContext.Controller.TempData["ErrorMessage"] = "Mai întâi loghează-te.";
                          filterContext.Result = new RedirectToRouteResult(
                              new RouteValueDictionary
                              {
-                            { "controller", "Login" },
-                            { "action", "LogIn" },
-                            { "errorMessage", "Mai întâi loghează-te." }
+                            { "controller", "Home" },
+                            { "action", "HomePage" }
                              });
                     }
-                    else if (currentUser.Level == URole.User)
+                    else if (currentUser.Level != URole.Admin)
                     {
+                         filterContext.Controller.TempData["ErrorMessage"] = "Nu ai permisiuni de a accesa pagina.";
                          filterContext.Result = new RedirectToRouteResult(
                              new RouteValueDictionary
                              {
-                            { "controller", "Login" },
-                            { "action", "LogIn" },
-                            { "errorMessage", "Nu ai permisiuni de a accesa pagina." }
-                             });
-                    }
-                    else if (currentUser.Level == URole.Admin)
-                    {
-                         base.OnActionExecuting(filterContext);
-                    }
-                    else
-                    {
-                         filterContext.Result = new RedirectToRouteResult(
-                             new RouteValueDictionary
-                             {
-                            { "controller", "Login" },
-                            { "action", "LogIn" },
-                            { "errorMessage", "Nu ai drepturi de a accesa pagina." }
+                            { "controller", "Home" },
+                            { "action", "HomePage" }
                              });
                     }
                }
                else
                {
+                    filterContext.Controller.TempData["ErrorMessage"] = "Mai întâi loghează-te.";
                     filterContext.Result = new RedirectToRouteResult(
                         new RouteValueDictionary
                         {
-                        { "controller", "Login" },
-                        { "action", "LogIn" },
-                        { "errorMessage", "Mai întâi loghează-te." }
+                        { "controller", "Home" },
+                        { "action", "HomePage" }
                         });
                }
           }
