@@ -53,15 +53,6 @@
                     <div class="col-lg-9 pl-0 ml-sm-15 ml-xs-15">
                         <!-- Begin Header Middle Searchbox Area -->
                         <form action="@Url.Action("Search", "SearchBar")" class="hm-searchbox" method="get">
-                            <!--<select class="nice-select select-search-category">
-                                <!--<option value="0">All</option>
-                                <option value="1">Jocuri Playstation</option>
-                                <option value="2">Jocuri Xbox</option>
-                                <option value="3">Jocuri PC</option>
-                                <!--<option value="4">Consoale</option>
-                                <option value="5">Accesorii</option>
-                                <option value="6">Colecții</option>
-                            </select>-->
                             <input type="text" name="query" placeholder="Scrie aici ...">
                             <button class="li-btn" type="submit"><i class="fa fa-search"></i></button>
                         </form>
@@ -104,34 +95,13 @@
                                             <li>
                                                 <a href="">Jocuri</a>
                                                 <ul>
-                                                    <li><a>Playstation</a></li>
-                                                    <li><a>Xbox</a></li>
+                                                    <li><a href="@Url.Action("NintendoGames", "NintendoGames")">Jocuri Nintendo</a></li>
                                                     <li><a href="@Url.Action("ConsoleGames", "ConsoleGames")">Jocuri Console</a></li>
                                                     <li><a href="@Url.Action("PCGames", "PCGames")">Jocuri PC</a></li>
                                                 </ul>
                                             </li>
-                                            <!--<li>
-                                                <a href="">Consoale</a>
-                                                <ul>
-                                                    <li><a>Playstation</a></li>
-                                                    <li><a>Xbox</a></li>
-                                                    <li><a>Nintendo</a></li>
-                                                    <li><a>Steam Deck</a></li>
-                                                </ul>
-                                            </li>
-                                            <li>
-                                                <a href="">Accesorii</a>
-                                                <ul>
-                                                    <li><a>Playstation</a></li>
-                                                    <li><a>Xbox</a></li>
-                                                    <li><a>Nintendo</a></li>
-                                                    <li><a>PC</a></li>
-                                                </ul>
-                                            </li> -->
                                         </ul>
                                     </li>
-                                    <li><a href="">About Us</a></li>
-
                                 </ul>
                             </nav>
                         </div>

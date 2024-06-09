@@ -36,7 +36,6 @@
 <script>
      document.getElementById('addressForm').addEventListener('submit', function (event) {
           var isValid = true;
-          // Clear error mesages
           document.getElementById('addressError').textContent = '';
           document.getElementById('indexError').textContent = '';
           document.getElementById('phonenumberError').textContent = '';
@@ -59,7 +58,6 @@
                document.getElementById('phonenumberError').textContent = 'Numarul de telefon trebuie să aibă între 8 și 15 caractere.';
           }
 
-          // Prevent
           if (!isValid) {
                event.preventDefault();
           }

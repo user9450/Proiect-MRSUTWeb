@@ -21,7 +21,6 @@ namespace eUseControl.Web.Controllers
              _session = bl.GetSessionBL();
              _context = new OrderContext();
         }
-          // GET: SearchBar
           public ActionResult Search(string query)
           {
                if (string.IsNullOrEmpty(query))
