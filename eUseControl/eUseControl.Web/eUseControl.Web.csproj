@@ -371,6 +371,7 @@
     <Compile Include="Controllers\NintendoGamesController.cs" />
     <Compile Include="Controllers\OrderController.cs" />
     <Compile Include="Controllers\PCGamesController.cs" />
+    <Compile Include="Controllers\ProductDetailsController.cs" />
     <Compile Include="Controllers\SearchBarController.cs" />
     <Compile Include="Controllers\UserRegistrationController.cs" />
     <Compile Include="Extension\HttpContextExtensions.cs" />
@@ -435,6 +436,7 @@
     <Content Include="Views\Order\UserAddress.cshtml" />
     <Content Include="Views\MyOrder\MyOrders.cshtml" />
     <Content Include="Views\NintendoGames\NintendoGames.cshtml" />
+    <Content Include="Views\ProductDetails\ProductDetails.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
