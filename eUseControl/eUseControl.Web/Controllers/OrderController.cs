@@ -134,5 +134,49 @@ namespace eUseControl.Web.Controllers
             return RedirectToAction("Index");
         }
 
+        public ActionResult UserAddress()
+        {
+          return View();
+        }
+
+        public ActionResult BuyPhysicalCopy(Order address)
+         {
+               var authToken = Request.Cookies["X-KEY"]?.Value;
+
+               var currentUser = GetUserDetails(authToken);
+               if (currentUser == null)
+               {
+                    TempData["ErrorMessage"] = "[!] Nu s-a putut obține detaliile utilizatorului.";
+                    return RedirectToAction("HomePage", "Home");
+               }
+
+               var cartItems = GetCartItems();
+               if (!cartItems.Any())
+               {
+                    return RedirectToAction("Index");
+               }
+
+               var order = new Order
+               {
+                    UserId = currentUser.Email,
+                    OrderDate = DateTime.Now,
+                    UserAddress = address.UserAddress,
+                    UserIndex = address.UserIndex,
+                    UserPhoneNumber = address.UserPhoneNumber,
+                    OrderDetails = cartItems.Select(c => new OrderDetail
+                    {
+                         ProductId = c.Product.ProductId,
+                         Quantity = c.Quantity,
+                         UnitPrice = c.Product.Price
+                    }).ToList()
+                   
+               };
+
+               _context.Orders.Add(order);
+               _context.CartItems.RemoveRange(cartItems);
+               _context.SaveChanges();
+
+               return RedirectToAction("ThankYou");
+         }
     }
 }
