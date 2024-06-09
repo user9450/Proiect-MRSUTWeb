@@ -1,15 +1,14 @@
 ﻿@model List<eUseControl.Domain.Entities.Orders.Order>
 
 @{
-    ViewBag.Title = "Orders";
+    ViewBag.Title = "My Orders";
 }
 
-<h2>Admin Orders Page</h2>
+<h2>My Orders</h2>
 
 <table class="table">
     <tr>
         <th>Order ID</th>
-        <th>Email</th>
         <th>Order Date</th>
         <th>Order Details</th>
     </tr>
@@ -17,7 +16,6 @@
     {
         <tr>
             <td>@order.OrderId</td>
-            <td>@order.UserId</td>
             <td>@order.OrderDate</td>
             <td>
                 <table class="table">
@@ -39,5 +37,3 @@
         </tr>
     }
 </table>
-
-@Html.AntiForgeryToken()
