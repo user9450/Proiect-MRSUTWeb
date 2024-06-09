@@ -1,287 +1,303 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\",
+  "WorkspaceRootPath": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\moriya\\documents\\github\\proiect-mrsutweb\\eusecontrol\\eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\moriya\\documents\\github\\proiect-mrsutweb\\eusecontrol\\eusecontrol.web\\views\\myorder\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\myorder\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\moriya\\documents\\github\\proiect-mrsutweb\\eusecontrol\\eusecontrol.web\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\moriya\\documents\\github\\proiect-mrsutweb\\eusecontrol\\eusecontrol.web\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\myordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\searchbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\searchbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\pcgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\pcgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\controllers\\consolegamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\consolegamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|c:\\users\\bloody_roots\\source\\repos\\proiect-mrsutwebmain\\eusecontrol\\eusecontrol.web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\searchbar\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\searchbar\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\orders\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\orders\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\orders\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|c:\\users\\moriya\\documents\\github\\proiect-mrsutweb\\eusecontrol\\domain\\entities\\orders\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\orders\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\attribute\\usermodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\attribute\\adminmodattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\userregistrationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\searchbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\searchbarcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\pcgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\pcgamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\controllers\\consolegamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\controllers\\consolegamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\createuser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\admin\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\userregistration\\registerpage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\searchbar\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\searchbar\\searchresults.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\home\\homepage.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\orders\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\orders\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\responsive.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\core\\userapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\bussineslogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userregister.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\Documents\\IISExpress\\config\\applicationhost.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\applicationinsights.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\index-4.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eUseControl.Web\\Views\\_ViewStart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\shared\\_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\bootstrap-reboot.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\order\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\filterconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\account\\mycabinet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\account\\mycabinet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\account\\mycabinet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\models\\userdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\extension\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\extension\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\extension\\httpcontextextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|solutionrelative:helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\eUseControl.Helpers.csproj|solutionrelative:helpers\\loginhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\uregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\uregisterdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\eUseControl.Domain.csproj|solutionrelative:domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\eUseControl.BusinessLogic.csproj|solutionrelative:businesslogic\\core\\adminapi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\sessionbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\views\\order\\thankyou.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\global.asax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\bootstrap-grid.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\css\\meanmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\meanmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\meanmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\jquery-ui.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\content\\css\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\content\\css\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\content\\css\\helper.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\scripts\\jquery.validate.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eusecontrol.web\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "AbsoluteMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eusecontrol.web\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{0186C00C-2475-4860-AC6E-5117421ACE71}|eUseControl.Web\\eUseControl.Web.csproj|solutionrelative:eusecontrol.web\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
@@ -294,46 +310,46 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1720C3A/UserContext/True/SqlTable/dbo.UserContext.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\Helpers.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\Helpers.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{075F9F75-607E-497E-A89A-B7E6CD7B830E}|Helpers\\Helpers.csproj|solutionrelative:helpers\\cookiegenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\userminimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\uloginresp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\ulogindata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\udbtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\entities\\user\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C809FFB7-EAE1-41D0-8A08-1E253C557828}|Domain\\Domain.csproj|solutionrelative:domain\\enums\\urole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\isession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\dbmodel\\sessioncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DESKTOP_1720C3A/UserContext/True/SqlTable/dbo.Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\businesslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\businesslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{97DF8C8D-346C-4728-9D90-663A027A40C2}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -353,87 +369,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "OrderController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\OrderController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\OrderController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:18:11.316Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:58:13.653Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "LoginController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\LoginController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\LoginController.cs",
-              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEwAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:08:19.364Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRegistrationController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\UserRegistrationController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\UserRegistrationController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T14:52:44.758Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "SearchBarController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\SearchBarController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\SearchBarController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\SearchBarController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\SearchBarController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T13:51:12.72Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "AdminController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\AdminController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AdminController.cs",
               "RelativeToolTip": "eUseControl.Web\\Controllers\\AdminController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAPAAAA",
+              "ViewState": "AQIAAD0AAAAAAAAAAAA0wJsAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-05-12T09:19:27.826Z",
               "IsPinned": true,
@@ -441,175 +387,300 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "UDbTable.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\User\\UDbTable.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
-              "RelativeToolTip": "Domain\\Entities\\User\\UDbTable.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "DocumentIndex": 4,
+              "Title": "MyOrderController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\MyOrderController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\MyOrderController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\MyOrderController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\MyOrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-11T15:20:47.753Z",
+              "WhenOpened": "2024-06-09T11:47:08.702Z",
               "IsPinned": true,
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "_Header.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAnwBcAAAA9AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-25T10:01:40.575Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Products.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\Source\\Repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Products.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Products.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\Source\\Repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Products.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Products.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:23:31.681Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Users.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Users.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Users.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Users.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Users.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:23:17.385Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminModAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "RelativeToolTip": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBsAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:17:19.197Z",
+              "DocumentIndex": 2,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T11:53:24.112Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserModAttribute.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "RelativeToolTip": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-25T10:16:14.643Z",
+              "DocumentIndex": 1,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\MyOrder\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\MyOrder\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\MyOrder\\MyOrders.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\MyOrder\\MyOrders.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwBEAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T11:53:18.041Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "PCGamesController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\PCGamesController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\PCGamesController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\PCGamesController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\PCGamesController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\Orders\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Orders\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\Orders\\OrderDetail.cs",
+              "RelativeToolTip": "Domain\\Entities\\Orders\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-06T14:50:50.432Z",
+              "WhenOpened": "2024-06-09T11:49:07.122Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "UserLogin.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserLogin.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
-              "RelativeToolTip": "eUseControl.Web\\Models\\UserLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T16:07:20.571Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T09:25:20.366Z",
+              "DocumentIndex": 0,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-25T10:01:40.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "CreateUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
-              "ViewState": "AQIAADwAAAAAAAAAAAAAAAYAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:39:54.776Z",
-              "EditorCaption": ""
+              "Title": "SearchBarController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\SearchBarController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\SearchBarController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\SearchBarController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\SearchBarController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACQAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T13:51:12.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
-              "Title": "ConsoleGamesController.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
-              "RelativeToolTip": "eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
+              "Title": "UserRegistrationController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\UserRegistrationController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\UserRegistrationController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\UserRegistrationController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:52:44.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAwwEwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:08:19.364Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\Orders\\Order.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Orders\\Order.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\Orders\\Order.cs",
+              "RelativeToolTip": "Domain\\Entities\\Orders\\Order.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-07T15:57:14.811Z",
+              "WhenOpened": "2024-05-30T19:09:32.57Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UDbTable.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\User\\UDbTable.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "RelativeToolTip": "Domain\\Entities\\User\\UDbTable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T15:20:47.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:58:13.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:18:11.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Products.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Products.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Products.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Products.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:23:31.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:23:17.385Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminModAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "RelativeToolTip": "eUseControl.Web\\Attribute\\AdminModAttribute.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBsAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:17:19.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "RelativeToolTip": "eUseControl.Web\\Attribute\\UserModAttribute.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-25T10:16:14.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PCGamesController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\PCGamesController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\PCGamesController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\PCGamesController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\PCGamesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T14:50:50.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserLogin.cs",
+              "RelativeToolTip": "eUseControl.Web\\Models\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T16:07:20.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T09:25:20.366Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\CreateUser.cshtml",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAAYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:39:54.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Create.cshtml",
-              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Create.cshtml",
-              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Create.cshtml",
+              "Title": "ConsoleGamesController.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
+              "RelativeToolTip": "eUseControl.Web\\Controllers\\ConsoleGamesController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:47:41.482Z",
-              "EditorCaption": ""
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-07T15:57:14.811Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 21,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Create.cshtml",
+              "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Create.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Create.cshtml",
+              "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-07T15:47:41.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "SearchResults.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\SearchBar\\SearchResults.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\SearchBar\\SearchResults.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\SearchBar\\SearchResults.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\SearchBar\\SearchResults.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\SearchBar\\SearchResults.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\SearchBar\\SearchResults.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -617,37 +688,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 22,
               "Title": "EditUser.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\EditUser.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\EditUser.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\EditUser.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\EditUser.cshtml",
               "ViewState": "AQIAACcAAAAAAAAAAAAAABMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:43:53.655Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T15:43:53.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 23,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Edit.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Admin\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Admin\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Admin\\Edit.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Admin\\Edit.cshtml",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-07T15:46:00.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-07T15:46:00.63Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
               "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\UserContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -655,11 +724,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 27,
               "Title": "UserContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\UserContext.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\UserContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\UserContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -667,11 +736,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 29,
               "Title": "HomePage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Home\\HomePage.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Home\\HomePage.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Home\\HomePage.cshtml",
               "ViewState": "AQIAAB8AAAAAAAAAAAASwDUAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -679,24 +748,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "RegisterPage.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\UserRegistration\\RegisterPage.cshtml",
               "ViewState": "AQIAAC4AAAAAAAAAAAAQwD8AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-11T14:53:00.816Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-11T14:53:00.816Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 30,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\Orders\\Product.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\Orders\\Product.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\Orders\\Product.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\Orders\\Product.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\Orders\\Product.cs",
               "RelativeToolTip": "Domain\\Entities\\Orders\\Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -704,11 +772,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 31,
               "Title": "responsive.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\responsive.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\responsive.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\responsive.css",
               "ViewState": "AQIAAAwAAAAAAAAAAAAAAAQBAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -716,23 +784,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "Order.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\Orders\\Order.cs",
-              "RelativeDocumentMoniker": "Domain\\Entities\\Orders\\Order.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\Orders\\Order.cs",
-              "RelativeToolTip": "Domain\\Entities\\Orders\\Order.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T19:09:32.57Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 32,
               "Title": "UserApi.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Core\\UserApi.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UserApi.cs",
               "RelativeToolTip": "BusinessLogic\\Core\\UserApi.cs",
               "ViewState": "AQIAAJIAAAAAAAAAAAAIwGgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -740,11 +796,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 34,
               "Title": "UserRegister.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserRegister.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserRegister.cs",
               "RelativeToolTip": "eUseControl.Web\\Models\\UserRegister.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -752,11 +808,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 33,
               "Title": "BussinesLogic.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\BussinesLogic.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\BussinesLogic.cs",
               "RelativeToolTip": "BusinessLogic\\BussinesLogic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -764,11 +820,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 35,
               "Title": "Web.config",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Web.config",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\Web.config",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Web.config",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.config",
               "RelativeToolTip": "eUseControl.Web\\Web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -777,11 +833,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 38,
               "Title": "Web.Release.config",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Web.Release.config",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Release.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\Web.Release.config",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Web.Release.config",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Release.config",
               "RelativeToolTip": "eUseControl.Web\\Web.Release.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -789,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 36,
               "Title": "applicationhost.config",
               "DocumentMoniker": "C:\\Users\\Qima\\Documents\\IISExpress\\config\\applicationhost.config",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\Documents\\IISExpress\\config\\applicationhost.config",
@@ -801,11 +857,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 37,
               "Title": "Web.Debug.config",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Web.Debug.config",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Debug.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\Web.Debug.config",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Web.Debug.config",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Web.Debug.config",
               "RelativeToolTip": "eUseControl.Web\\Web.Debug.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -813,11 +869,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 39,
               "Title": "ApplicationInsights.config",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\ApplicationInsights.config",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\ApplicationInsights.config",
               "RelativeToolTip": "eUseControl.Web\\ApplicationInsights.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -825,11 +881,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 40,
               "Title": "web.config",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\web.config",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\web.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\web.config",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\web.config",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\web.config",
               "RelativeToolTip": "eUseControl.Web\\Views\\web.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -837,11 +893,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 41,
               "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\style.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\style.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\style.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\style.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\style.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\style.css",
               "ViewState": "AQIAAPsHAAAAAAAAAAAswBQIAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -849,11 +905,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 42,
               "Title": "index-4.html",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\index-4.html",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\index-4.html",
               "RelativeToolTip": "eUseControl.Web\\Content\\index-4.html",
               "ViewState": "AQIAALMBAAAAAAAAAADgv8QBAABDAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
@@ -861,11 +917,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 43,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwBEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -873,11 +929,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 44,
               "Title": "Site.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\Site.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\Site.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\Site.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\Site.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\Site.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\Site.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -885,11 +941,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 45,
               "Title": "LogIn.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Login\\LogIn.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Login\\LogIn.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Login\\LogIn.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -897,11 +953,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 46,
               "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\_ViewStart.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -909,11 +965,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 47,
               "Title": "_Footer.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Shared\\_Footer.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -921,11 +977,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 48,
               "Title": "bootstrap-reboot.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\bootstrap-reboot.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-reboot.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\bootstrap-reboot.css",
               "ViewState": "AQIAAJoBAAAAAAAAAAAswK8BAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -933,11 +989,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 49,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Order\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\Index.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Order\\Index.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAqwBgAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -945,11 +1001,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 50,
               "Title": "RouteConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\RouteConfig.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\RouteConfig.cs",
               "RelativeToolTip": "eUseControl.Web\\App_Start\\RouteConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -957,11 +1013,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 51,
               "Title": "FilterConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\FilterConfig.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\FilterConfig.cs",
               "RelativeToolTip": "eUseControl.Web\\App_Start\\FilterConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -969,11 +1025,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 52,
               "Title": "MyCabinet.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Account\\MyCabinet.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -981,11 +1037,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 53,
               "Title": "UserData.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Models\\UserData.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Models\\UserData.cs",
               "RelativeToolTip": "eUseControl.Web\\Models\\UserData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -993,11 +1049,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 54,
               "Title": "HttpContextExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Extension\\HttpContextExtensions.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Extension\\HttpContextExtensions.cs",
               "RelativeToolTip": "eUseControl.Web\\Extension\\HttpContextExtensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1005,11 +1061,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 55,
               "Title": "BundleConfig.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\App_Start\\BundleConfig.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\App_Start\\BundleConfig.cs",
               "RelativeToolTip": "eUseControl.Web\\App_Start\\BundleConfig.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1017,11 +1073,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 56,
               "Title": "CookieGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeDocumentMoniker": "Helpers\\CookieGenerator.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeToolTip": "Helpers\\CookieGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1029,11 +1085,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 57,
               "Title": "LoginHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Helpers\\LoginHelper.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\LoginHelper.cs",
               "RelativeDocumentMoniker": "Helpers\\LoginHelper.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Helpers\\LoginHelper.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\LoginHelper.cs",
               "RelativeToolTip": "Helpers\\LoginHelper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1041,11 +1097,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
+              "DocumentIndex": 58,
               "Title": "URole.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Enums\\URole.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\URole.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Enums\\URole.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeToolTip": "Domain\\Enums\\URole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1053,11 +1109,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 55,
+              "DocumentIndex": 59,
               "Title": "UserMinimal.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UserMinimal.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UserMinimal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1065,11 +1121,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 56,
+              "DocumentIndex": 60,
               "Title": "URegisterData.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\URegisterData.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\URegisterData.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\URegisterData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1077,11 +1133,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 57,
+              "DocumentIndex": 61,
               "Title": "ULoginResp.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginResp.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginResp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1089,11 +1145,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 58,
+              "DocumentIndex": 62,
               "Title": "ULoginData.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1101,11 +1157,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
+              "DocumentIndex": 63,
               "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\Session.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\Session.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1113,11 +1169,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 60,
+              "DocumentIndex": 64,
               "Title": "AdminApi.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Core\\AdminApi.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\AdminApi.cs",
               "RelativeToolTip": "BusinessLogic\\Core\\AdminApi.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1125,11 +1181,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
+              "DocumentIndex": 65,
               "Title": "SessionBL.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\SessionBL.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\SessionBL.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\SessionBL.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\SessionBL.cs",
               "RelativeToolTip": "BusinessLogic\\SessionBL.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1137,11 +1193,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 62,
+              "DocumentIndex": 66,
               "Title": "ThankYou.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
               "RelativeDocumentMoniker": "eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
               "RelativeToolTip": "eUseControl.Web\\Views\\Order\\ThankYou.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -1149,11 +1205,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 63,
+              "DocumentIndex": 67,
               "Title": "Global.asax.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Global.asax.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Global.asax.cs",
               "RelativeDocumentMoniker": "eUseControl.Web\\Global.asax.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Global.asax.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Global.asax.cs",
               "RelativeToolTip": "eUseControl.Web\\Global.asax.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1161,7 +1217,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 86,
+              "DocumentIndex": 90,
               "Title": "_LayoutWithUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithUser.cshtml",
@@ -1172,11 +1228,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 66,
+              "DocumentIndex": 70,
               "Title": "meanmenu.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\meanmenu.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\meanmenu.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\meanmenu.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1184,11 +1240,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 67,
+              "DocumentIndex": 71,
               "Title": "jquery-ui.min.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\jquery-ui.min.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\jquery-ui.min.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\jquery-ui.min.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1196,7 +1252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 64,
+              "DocumentIndex": 68,
               "Title": "_LayoutWithoutUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_LayoutWithoutUser.cshtml",
@@ -1207,7 +1263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 85,
+              "DocumentIndex": 89,
               "Title": "_HeaderWithoutUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithoutUser.cshtml",
@@ -1218,11 +1274,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 65,
+              "DocumentIndex": 69,
               "Title": "bootstrap-grid.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\bootstrap-grid.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\bootstrap-grid.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\bootstrap-grid.css",
               "ViewState": "AQIAALEAAAAAAAAAACBjwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1230,7 +1286,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 87,
+              "DocumentIndex": 91,
               "Title": "_HeaderWithUser.cshtml",
               "DocumentMoniker": "C:\\Users\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Qima\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Views\\Shared\\_HeaderWithUser.cshtml",
@@ -1241,11 +1297,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 68,
+              "DocumentIndex": 72,
               "Title": "helper.css",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
               "RelativeDocumentMoniker": "eUseControl.Web\\Content\\css\\helper.css",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Content\\css\\helper.css",
               "RelativeToolTip": "eUseControl.Web\\Content\\css\\helper.css",
               "ViewState": "AQIAANMgAAAAAAAAACBjwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
@@ -1253,11 +1309,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 70,
+              "DocumentIndex": 74,
               "Title": "packages.config",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\packages.config",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\packages.config",
               "RelativeDocumentMoniker": "eUseControl.Web\\packages.config",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\packages.config",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\packages.config",
               "RelativeToolTip": "eUseControl.Web\\packages.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
@@ -1265,11 +1321,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 69,
+              "DocumentIndex": 73,
               "Title": "jquery.validate.js",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
               "RelativeDocumentMoniker": "eUseControl.Web\\Scripts\\jquery.validate.js",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\eUseControl.Web\\Scripts\\jquery.validate.js",
               "RelativeToolTip": "eUseControl.Web\\Scripts\\jquery.validate.js",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
@@ -1277,7 +1333,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 71,
+              "DocumentIndex": 75,
               "Title": "UseraApi.cs",
               "DocumentMoniker": "C:\\Users\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Iaroslav\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Core\\UseraApi.cs",
@@ -1288,18 +1344,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 72,
+              "DocumentIndex": 76,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\..\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs",
               "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs",
-              "RelativeToolTip": "..\\..\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\Class1.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-11T08:12:51.908Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 73,
+              "DocumentIndex": 77,
               "Title": "dbo.UserContext [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1720C3A/UserContext/True/SqlTable/dbo.UserContext.sql",
               "ToolTip": "dbo.UserContext [Data]",
@@ -1308,11 +1364,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 74,
+              "DocumentIndex": 78,
               "Title": "CookieGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeDocumentMoniker": "Helpers\\CookieGenerator.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Helpers\\CookieGenerator.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Helpers\\CookieGenerator.cs",
               "RelativeToolTip": "Helpers\\CookieGenerator.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1320,11 +1376,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 75,
+              "DocumentIndex": 79,
               "Title": "UserMinimal.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UserMinimal.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UserMinimal.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UserMinimal.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1332,11 +1388,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 76,
+              "DocumentIndex": 80,
               "Title": "ULoginResp.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginResp.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginResp.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginResp.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1344,11 +1400,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 77,
+              "DocumentIndex": 81,
               "Title": "ULoginData.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\ULoginData.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\ULoginData.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\ULoginData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1356,11 +1412,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 78,
+              "DocumentIndex": 82,
               "Title": "UDbTable.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\UDbTable.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\UDbTable.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\UDbTable.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1368,11 +1424,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 79,
+              "DocumentIndex": 83,
               "Title": "Session.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeDocumentMoniker": "Domain\\Entities\\User\\Session.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Entities\\User\\Session.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Entities\\User\\Session.cs",
               "RelativeToolTip": "Domain\\Entities\\User\\Session.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1380,11 +1436,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 80,
+              "DocumentIndex": 84,
               "Title": "URole.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Enums\\URole.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeDocumentMoniker": "Domain\\Enums\\URole.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\Domain\\Enums\\URole.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\Domain\\Enums\\URole.cs",
               "RelativeToolTip": "Domain\\Enums\\URole.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1392,11 +1448,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 81,
+              "DocumentIndex": 85,
               "Title": "ISession.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\ISession.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Interfaces\\ISession.cs",
               "RelativeToolTip": "BusinessLogic\\Interfaces\\ISession.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1404,11 +1460,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 82,
+              "DocumentIndex": 86,
               "Title": "SessionContext.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\DBModel\\SessionContext.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\DBModel\\SessionContext.cs",
               "RelativeToolTip": "BusinessLogic\\DBModel\\SessionContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -1416,7 +1472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 83,
+              "DocumentIndex": 87,
               "Title": "dbo.Users [Data]",
               "DocumentMoniker": "ViewDataWindow_MSSQL__/DESKTOP_1720C3A/UserContext/True/SqlTable/dbo.Users.sql",
               "ToolTip": "dbo.Users [Data]",
@@ -1425,11 +1481,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 84,
+              "DocumentIndex": 88,
               "Title": "AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Properties\\AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\Bloody_Roots\\source\\repos\\Proiect-MRSUTWebmain\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\moriya\\Documents\\GitHub\\Proiect-MRSUTWeb\\eUseControl\\BusinessLogic\\Properties\\AssemblyInfo.cs",
               "RelativeToolTip": "BusinessLogic\\Properties\\AssemblyInfo.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
